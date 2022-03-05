@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Story by HTML5 UP</title>
+		<title>金润君的个人站</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -20,8 +20,8 @@
 				<!-- One -->
 					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
 						<div class="content">
-							<h1>Story</h1>
-							<p class="major">A (modular, highly tweakable) responsive one-page template designed by <a href="https://html5up.net">HTML5 UP</a> and released for free under the <a href="https://html5up.net/license">Creative Commons</a>.</p>
+							<h1>Runjunjin's Site</h1>
+							<p class="major">此站点的帖子可与CSDN相连接，作者：<a href="https://blog.csdn.net/m0_58363930">great suffering</a> 并且有问题可联系邮箱： 2059446178@qq.com </p>
 							<ul class="actions stacked">
 								<li><a href="#first" class="button big wide smooth-scroll-middle">Get Started</a></li>
 							</ul>
@@ -34,10 +34,35 @@
 				<!-- Two -->
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
 						<div class="content">
-							<h2>Magna etiam feugiat</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
+							<h2>Ubuntu20.04安装教程</h2>
+							<p>
+								发布时间2022/3/5
+							</p>1、安装VMware
+							</p>2、下载Ubuntu 20.04映像文件
+							</p>3、创建自定义虚拟机，联网（桥接式），内存2G，CPU核数1（内核数3），磁盘空间划分20G
+							</p>4、等待安装结束
+							</p>5、打开terminal
+							</p>输入更新命令：
+							</p>sudo apt-get update
+							</p>sudo apt-get upgrade
+							</p>6、安装中文输入法：打开language support
+							</p>选择install/remove language
+							</p>选择Chinese simplifie
+							</p>打开terminal输入：</p>sudo apt-get install ibus ibus-clutter ibus-gtk ibus-gtk3 ibus-qt4回车
+							</p>im-config -s ibus或者im-switch -s ibus
+							</p>sudo apt-get install language-pack
+							</p>sudo apt install ibus-libpinyin
+							</p>sudo apt install ibus-clutter
+							</p>sudo reboot
+							</p>打开settings找到region&language添加Chinese intellegent pinyin
+							</p>在terminal中输入：ibus-setup
+							</p>在input method中添加即可
+							</p>7、通过Ubuntu商店下载pycharm安装完毕后打开
+							</p>8、help中edit custom VM options...
+							</p>9、编辑以下代码：
+							</p>-Drecreate.x11.input.method=ture</p>
 							<ul class="actions stacked">
-								<li><a href="#" class="button">Learn More</a></li>
+								<li><a href="https://blog.csdn.net/m0_58363930/article/details/123234831?utm_source=app&app_version=5.0.1&code=app_1562916241&uLinkId=usr1mkqgl919blen" class="button">learn in CSDN</a></li>
 							</ul>
 						</div>
 						<div class="image">
@@ -48,10 +73,27 @@
 				<!-- Three -->
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
-							<h2>Tempus adipiscing</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
+							<h2>Win11 永久关闭更新</h2>
+							<p>
+								一、禁用注册表
+							</p>1、win+r输入regedit打开注册表编辑器
+							</p>2、展开HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wuauserv
+							</p>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\UsoSvc
+							</p>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WaaSMedicSvc
+							</p>3、将此三个中的start值均改为4（16进制），failaction中0010和0018的第五列由01改为00
+							</p>二、关闭计划任务：</p>UpdateOrchestrator , WindowsUpdate , WaaSMedic
+							</p><a href="http://docs.microsoft.com/en-us/sysinternals/downloads/psexec">点此链接下载PESTools</a>
+							</p>下载并解压
+							</p>1、以管理员运行cmd(命令提示符)
+							</p>2、键入cd C:\Users\RunjunJin\PSTools回车导入所在目录
+							</p>3、继续键入psexec.exe -i -s %windir%\system32\mmc.exe /s taskschd.msc回车
+							</p>4、点击agree
+							</p>5、展开路径：任务计划程序库>microsoft>windows>UpdateOrchestrator
+							</p>WindowsUpdate
+							</p>WaaSMedic
+							</p>6、禁用所要禁用的计划任务即可</p>
 							<ul class="actions stacked">
-								<li><a href="#" class="button">Learn More</a></li>
+								<li><a href="https://blog.csdn.net/m0_58363930/article/details/123261423?utm_source=app&app_version=5.0.1&code=app_1562916241&uLinkId=usr1mkqgl919blen" class="button">Learn in CSDN</a></li>
 							</ul>
 						</div>
 						<div class="image">
@@ -59,13 +101,14 @@
 						</div>
 					</section>
 
-				<!-- Four -->
-					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+ 				<!-- Four -->
+	 				<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
-							<h2>Pharetra etiam nulla</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
+							<h2>Unfinished</h2>
+							<p>Wait For The Next update
+							</p>以后都以text文件形式发表<a href="hosts/code1.txt">点此查看</a></p>
 							<ul class="actions stacked">
-								<li><a href="#" class="button">Learn More</a></li>
+								<li><a href="#" class="button">Up to the start</a></li>
 							</ul>
 						</div>
 						<div class="image">
@@ -337,7 +380,7 @@
 								<li><a href="#" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 								<li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
 							</ul>
-							<p>&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+							<p>&copy; Untitled. Editor: <a href="https://https://blog.csdn.net/m0_58363930">great suffering</a>.</p>
 						</div>
 					</footer>
 
