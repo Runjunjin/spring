@@ -1,0 +1,14 @@
+OpenSSL SSL_read:Connection was reset, error 10054的解决方式：
+在git输入以下代码：
+git config --global http.sslNackend "openssl"
+git config --global https.sslNackend "openssl"
+git config --global http.sslVerify "false"
+git config --global https.sslVerify "false"
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+git config --global http.postBuffer 524288000
+git config --global https.postBuffer 524288000
+git config --global --add core.compression -1
+每行代码后都按回车
+然后正常push
+
