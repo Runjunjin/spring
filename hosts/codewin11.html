@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>金润君的个人站</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets1/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets1/css/noscript.css" /></noscript>
+	</head>
+        <!-- Three -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="third">
+						<div class="content">
+							<h2>Win11 永久关闭更新</h2>
+							<p>发布日期2022/3/5
+							</p>一、禁用注册表
+							</p>1、win+r输入regedit打开注册表编辑器
+							</p>2、展开HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wuauserv
+							</p>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\UsoSvc
+							</p>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WaaSMedicSvc
+							</p>3、将此三个中的start值均改为4（16进制），failaction中0010和0018的第五列由01改为00
+							</p>二、关闭计划任务：</p>UpdateOrchestrator , WindowsUpdate , WaaSMedic
+							</p><a href="http://docs.microsoft.com/en-us/sysinternals/downloads/psexec">点此链接下载PESTools</a>
+							</p>下载并解压
+							</p>1、以管理员运行cmd(命令提示符)
+							</p>2、键入cd C:\Users\RunjunJin\PSTools回车导入所在目录
+							</p>3、继续键入psexec.exe -i -s %windir%\system32\mmc.exe /s taskschd.msc回车
+							</p>4、点击agree
+							</p>5、展开路径：任务计划程序库>microsoft>windows>UpdateOrchestrator
+							</p>WindowsUpdate
+							</p>WaaSMedic
+							</p>6、禁用所要禁用的计划任务即可</p>
+							<ul class="actions stacked">
+								<li><a href="https://blog.csdn.net/m0_58363930/article/details/123261423?utm_source=app&app_version=5.0.1&code=app_1562916241&uLinkId=usr1mkqgl919blen" class="button">Learn in CSDN</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images1/spotlight02.jpg" alt="" />
+						</div>
+					</section>

@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>金润君的个人站</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets1/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets1/css/noscript.css" /></noscript>
+	</head>
+           <section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in" id="second">
+						<div class="content">
+							<h2>Ubuntu20.04安装教程</h2>
+							<p>
+								发布时间2022/3/5
+							</p>1、安装VMware
+							</p>2、下载Ubuntu 20.04映像文件
+							</p>3、创建自定义虚拟机，联网（桥接式），内存2G，CPU核数1（内核数3），磁盘空间划分20G
+							</p>4、等待安装结束
+							</p>5、打开terminal
+							</p>输入更新命令：
+							</p>sudo apt-get update
+							</p>sudo apt-get upgrade
+							</p>6、安装中文输入法：打开language support
+							</p>选择install/remove language
+							</p>选择Chinese simplifie
+							</p>打开terminal输入：</p>sudo apt-get install ibus ibus-clutter ibus-gtk ibus-gtk3 ibus-qt4回车
+							</p>im-config -s ibus或者im-switch -s ibus
+							</p>sudo apt-get install language-pack
+							</p>sudo apt install ibus-libpinyin
+							</p>sudo apt install ibus-clutter
+							</p>sudo reboot
+							</p>打开settings找到region&language添加Chinese intellegent pinyin
+							</p>在terminal中输入：ibus-setup
+							</p>在input method中添加即可
+							</p>7、通过Ubuntu商店下载pycharm安装完毕后打开
+							</p>8、help中edit custom VM options...
+							</p>9、编辑以下代码：
+							</p>-Drecreate.x11.input.method=ture</p>
+							<ul class="actions stacked">
+								<li><a href="https://blog.csdn.net/m0_58363930/article/details/123234831?utm_source=app&app_version=5.0.1&code=app_1562916241&uLinkId=usr1mkqgl919blen" class="button">learn in CSDN</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images1/spotlight01.jpg" alt="" />
+						</div>
+					</section>

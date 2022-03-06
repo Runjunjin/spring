@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>金润君的个人站</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets1/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets1/css/noscript.css" /></noscript>
+	</head>
+    <section class="wrapper style1 align-center">
+                        <div class="image">
+							<img src="images1/spotlight03.jpg" alt="" />
+						</div>
+						<div class="inner">
+							<h2>git push往GitHub推代码报错解决方法</h2>
+										<li>OpenSSL SSL_read:Connection was reset, error 10054的解决方式：
+                                        <p>在git输入以下代码：
+                                        <p>git config --global http.sslNackend "openssl"
+                                        <p>git config --global https.sslNackend "openssl"
+                                        <p>git config --global http.sslVerify "false"
+                                        <p>git config --global https.sslVerify "false"
+                                        <p>git config --global --unset http.proxy
+                                        <p>git config --global --unset https.proxy
+                                        <p>git config --global http.postBuffer 524288000
+                                        <p>git config --global https.postBuffer 524288000
+                                        <p>git config --global --add core.compression -1
+                                        <li>每行代码后都按回车
+                                        <li>然后正常push</li>
+                        </div>
+
+
