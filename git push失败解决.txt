@@ -1,0 +1,17 @@
+git config --global http.sslNackend "openssl"
+
+git config --global https.sslNackend "openssl"
+
+git config --global http.sslVerify "false"
+
+git config --global https.sslVerify "false"
+
+git config --global --unset http.proxy
+
+git config --global --unset https.proxy
+
+git config --global http.postBuffer 524288000
+
+git config --global https.postBuffer 524288000
+
+git config --global --add core.compression -1
