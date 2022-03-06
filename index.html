@@ -21,12 +21,15 @@
 					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
 						<div class="content">
 							<h1>Runjunjin's Site</h1>
-							<p class="major">此站点的帖子可与CSDN相连接，作者：<a href="https://blog.csdn.net/m0_58363930">great suffering</a> 并且有问题可联系邮箱： 2059446178@qq.com </p>
+							<p class="inner">正在开发</p>
+							<p class="major">此站点的帖子可与CSDN相连接，作者：<a href="https://blog.csdn.net/m0_58363930">great suffering</a> 有问题可联系邮箱： 2059446178@qq.com </p>
 							<ul class="actions stacked">
 								<p class="major">引导</p>
 								<li><a href="#frist" class="button big wide smooth-scroll-middle">The Newest</a></li>
-								<li><a href="#second" class="button big wide smooth-scroll-middle">Ubuntu20.04安装指导</a></li>
-								<li><a href="#third" class="button big wide smooth-scroll-middle">Win11永久关闭更新</a></li>
+								<p>
+								<p class="major">往期内容，点击查看</p>
+								<li><a href="hosts\codeUbuntu.html" class="button big wide smooth-scroll-middle">02-Ubuntu20.04安装指导</a></li>
+								<li><a href="hosts\codewin11.html" class="button big wide smooth-scroll-middle">01-Win11永久关闭更新</a></li>
 							</ul>
 						</div>
 						<div class="image">
@@ -38,8 +41,8 @@
 	 				<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="frist">
 						<div class="content">
 							<h2>Updating</h2>
-							<p>已更新01-github：<a href="hosts/code2.txt">git push往GitHub推代码报错解决方法</a>
-							</p>以后都以text文件形式发表<a href="hosts/code1.txt">点此查看</a></p>
+							<p>已更新03-github：<a href="hosts/code2.html">git push往GitHub推代码报错解决方法</a>
+							</p>以后都以链接形式发表<a href="hosts/code1.html">点此查看</a></p>
 							<ul class="actions stacked">
 								<li><a href="#" class="button">Up to the start</a></li>
 							</ul>
@@ -49,83 +52,11 @@
 						</div>
 					</section>
 
-				<!-- Two -->
-					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in" id="second">
-						<div class="content">
-							<h2>Ubuntu20.04安装教程</h2>
-							<p>
-								发布时间2022/3/5
-							</p>1、安装VMware
-							</p>2、下载Ubuntu 20.04映像文件
-							</p>3、创建自定义虚拟机，联网（桥接式），内存2G，CPU核数1（内核数3），磁盘空间划分20G
-							</p>4、等待安装结束
-							</p>5、打开terminal
-							</p>输入更新命令：
-							</p>sudo apt-get update
-							</p>sudo apt-get upgrade
-							</p>6、安装中文输入法：打开language support
-							</p>选择install/remove language
-							</p>选择Chinese simplifie
-							</p>打开terminal输入：</p>sudo apt-get install ibus ibus-clutter ibus-gtk ibus-gtk3 ibus-qt4回车
-							</p>im-config -s ibus或者im-switch -s ibus
-							</p>sudo apt-get install language-pack
-							</p>sudo apt install ibus-libpinyin
-							</p>sudo apt install ibus-clutter
-							</p>sudo reboot
-							</p>打开settings找到region&language添加Chinese intellegent pinyin
-							</p>在terminal中输入：ibus-setup
-							</p>在input method中添加即可
-							</p>7、通过Ubuntu商店下载pycharm安装完毕后打开
-							</p>8、help中edit custom VM options...
-							</p>9、编辑以下代码：
-							</p>-Drecreate.x11.input.method=ture</p>
-							<ul class="actions stacked">
-								<li><a href="https://blog.csdn.net/m0_58363930/article/details/123234831?utm_source=app&app_version=5.0.1&code=app_1562916241&uLinkId=usr1mkqgl919blen" class="button">learn in CSDN</a></li>
-							</ul>
-						</div>
-						<div class="image">
-							<img src="images/spotlight01.jpg" alt="" />
-						</div>
-					</section>
-
-				<!-- Three -->
-					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="third">
-						<div class="content">
-							<h2>Win11 永久关闭更新</h2>
-							<p>发布日期2022/3/5
-							</p>一、禁用注册表
-							</p>1、win+r输入regedit打开注册表编辑器
-							</p>2、展开HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wuauserv
-							</p>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\UsoSvc
-							</p>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WaaSMedicSvc
-							</p>3、将此三个中的start值均改为4（16进制），failaction中0010和0018的第五列由01改为00
-							</p>二、关闭计划任务：</p>UpdateOrchestrator , WindowsUpdate , WaaSMedic
-							</p><a href="http://docs.microsoft.com/en-us/sysinternals/downloads/psexec">点此链接下载PESTools</a>
-							</p>下载并解压
-							</p>1、以管理员运行cmd(命令提示符)
-							</p>2、键入cd C:\Users\RunjunJin\PSTools回车导入所在目录
-							</p>3、继续键入psexec.exe -i -s %windir%\system32\mmc.exe /s taskschd.msc回车
-							</p>4、点击agree
-							</p>5、展开路径：任务计划程序库>microsoft>windows>UpdateOrchestrator
-							</p>WindowsUpdate
-							</p>WaaSMedic
-							</p>6、禁用所要禁用的计划任务即可</p>
-							<ul class="actions stacked">
-								<li><a href="https://blog.csdn.net/m0_58363930/article/details/123261423?utm_source=app&app_version=5.0.1&code=app_1562916241&uLinkId=usr1mkqgl919blen" class="button">Learn in CSDN</a></li>
-							</ul>
-						</div>
-						<div class="image">
-							<img src="images/spotlight02.jpg" alt="" />
-						</div>
-					</section>
-
-
 
 				<!-- Five -->
 					<section class="wrapper style1 align-center">
 						<div class="inner">
-							<h2>Massa sed condimentum</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
+							<h2>即将上线</h2>
 						</div>
 
 						<!-- Gallery -->
@@ -135,8 +66,8 @@
 										<img src="images/gallery/thumbs/01.jpg" alt="" />
 									</a>
 									<div class="caption">
-										<h3>Ipsum Dolor</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<h3>朋友圈功能</h3>
+										<p>朋友圈功能正在开发中</p>
 										<ul class="actions fixed">
 											<li><span class="button small">Details</span></li>
 										</ul>
@@ -281,12 +212,12 @@
 				<!-- Six -->
 					<section class="wrapper style1 align-center">
 						<div class="inner">
-							<h2>Ipsum sed consequat</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
+							<h2>联系方式</h2>
+							<p>Connect Measures</p>
 							<div class="items style1 medium onscroll-fade-in">
-								<section>
+		<!--						<section>
 									<span class="icon style2 major fa-gem"></span>
-									<h3>Lorem</h3>
+									<h3>lorem</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
 								</section>
 								<section>
@@ -329,20 +260,21 @@
 									<h3>Morbi</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
 								</section>
+								-->
 								<section>
 									<span class="icon solid style2 major fa-bolt"></span>
-									<h3>Turpis</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+									<h3>CSDN</h3>
+									<a href="https://blog.csdn.net/m0_58363930" class="button">great suffering</a>
 								</section>
 								<section>
 									<span class="icon solid style2 major fa-envelope"></span>
-									<h3>Ultrices</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+									<h3>Email</h3>
+									<a href="https://mailto2059446178@qq.com" class="button">2059446178@qq.com</a>
 								</section>
 								<section>
 									<span class="icon solid style2 major fa-leaf"></span>
-									<h3>Risus</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+									<h3>BaiDudisk</h3>
+									<a href="hosts\images1\baidudisk.jpg" class="button">wuuehhdh</a>
 								</section>
 							</div>
 						</div>
