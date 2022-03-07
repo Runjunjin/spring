@@ -287,23 +287,23 @@
 					<section class="wrapper style1 align-center">
 						<div class="inner medium">
 							<h2>Get in touch</h2>
-							<form method="post" action="#">
+							<form method="get" action="mailto:2059446178@qq.com" enctype="text/plain">
 								<div class="fields">
 									<div class="field half">
 										<label for="name">Name</label>
-										<input type="text" name="name" id="name" value="" />
+										<input type="text" name="subject" id="name" class="popup-btn" value="" />
 									</div>
 									<div class="field half">
 										<label for="email">Email</label>
-										<input type="email" name="email" id="email" value="" />
+										<input type="email" name="cc" id="email" class="popup-btn" value="" />
 									</div>
 									<div class="field">
 										<label for="message">Message</label>
-										<textarea name="message" id="message" rows="6"></textarea>
+										<textarea name="body" id="message"  rows="6" value=""></textarea>
 									</div>
-								</div>
+								   </div>
 								<ul class="actions special">
-									<li><input type="submit" name="submit" id="submit" value="Send Message" /></li>
+									<li><input type="submit" name="close" id="export" value="Send Message" ></li>
 								</ul>
 							</form>
 
@@ -334,6 +334,28 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+	     <!--   <script type="text/javascript">
+                     function getMailtoUrl()
+                       {
+                        var args = [];
+                        if (typeof subject !== 'undefined') {
+                        args.push('subject=' + encodeURIComponent('主题内容'));}
 
+                         var name = $("input[name='name']").val();
+                         var email = $("input[name='email']").val();
+                         var message = $("input[id='message']").val()
+                         var body = name + "\n" + email + "\n" + message
+
+                         if (typeof body !== 'undefined') {args.push('body=' + encodeURIComponent(body))}
+
+                         var url = 'mailto:' + encodeURIComponent('2059446178@qq.com');
+
+                         if (args.length > 0) {url += '?' + args.join('&');}
+                         console.log(url);
+                         window.location = url;
+                         return url;
+                         }
+           </script>
+-->
 	</body>
 </html>
