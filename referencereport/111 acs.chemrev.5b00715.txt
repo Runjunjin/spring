@@ -58,11 +58,23 @@ Some explaination for words:
 
   Some words explaining:
                                        derivatives 派生物
-                                 conformation 构造
+                                       conformation 构造
 3.1 <100>-orientation
-  
+  Dimensional reduction has significant impact on physical properties. e.g. The band gap increases as the dimensionality of the structure is lowered. 
+  The more different set of electronegativities (电负性), the larger band gap of the compounds. 
+
+
  Some words explaining:
                                       stoichiometry 化学计量学
+                                      lipid bilayers 脂质双层
+                                      be anchored to 被固定在
+                                      rotation 旋转
+                                      regular dynamic 正则动态（动力学）
+                                      melting 熔融的
+                                      methylene 亚甲基
+                                      conformational disorder 构象无序
+
 Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
-      Could I consider it as due to the distortion constraining the electrons' movement ?
+      Could I consider it as due to the distortion constraining the electrons' movement ? Because it is similar to the effect of electronegativities (电负性)
+      on the band gap of the compounds, which shows that more different set of electronegativities leads the larger band gap of the compounds. 
