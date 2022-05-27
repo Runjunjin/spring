@@ -22,6 +22,7 @@ Some explaination for words:
                                             polarizable 可极化的
                                             polymerizable 可聚合的
                                             photocatalysis 光催化
+
 2. 3D Organic-Inorganic Perovskites
   Perovskite refers to the mineral (矿物) CaTiO3 and any structure adopting the same ABX3 three-dimensional (3-D) structural framework. 
   In the case of organic-inorganic hybrid perovskites, at least one of the 'A', 'B', or 'X' ions are organic. 
@@ -35,8 +36,33 @@ Some explaination for words:
      possible.
   The limit on RA is found to be approximately 2.6 Å for traditional BX3− frameworks with B = divalent metal and X = halogen.
   If A cation is monovalent (单价的) and X cation is a halogen with full occupation, B cation must be divalent (二价的) because of the charge balance. 
+  And the +2 charge on the B cation can be achieved by employing equal numbers of +1 and +3 cations. 
+  The lone pair s2 electrons or s-orbital hybridization lead metal atom away from crystallographic center of metal halide octahedra, (distortion of the 
+      inorganic framework) resulting in alternating (交替的) long and short B-X bonds and the prospects (潜在期望) of ferroelectricity. 
 
+3. Lower-Dimensional Organic-Inorganic Perovskites
+  With the dimension reducing, the tolerance factor for 3-D is lifted. (提高)
+  The <100>-oriented layered perovskites have a general formula (RNH3)2 An-1 Bn X3n+1 (two octahedra--two B cations, one RNH3 occupies the head 
+       and another occupies the tail 头尾各一个, A+ occupies the center of interval). 3-D
+  The <110> direction of the 3-D perovskite have a general formula A'2 Am Bm X3m+2 (the octahedra would be cutting in half. 八面体被切割为一半). 
+      1-D and 2-D
+  The <111>-oriented family, A'2 Aq-1 Bq X3q+3 (透视，各点X都需计入。Becasue of perspective, all the X site should be counted. ). 0-D
+  A-R group: 
+                    The A must contain terminal functional groups that can ionically interact with the anionic inorganic substructure (基底), but without 
+                 the rest of the organic molecule interfering with the inorganic components 'B' and 'X'. 
+  2-D perovskite: 
+                           There is no definitive restriction for the length of the interlayer organic cation. 
+                            But there is a restrictioin for the width, which must fit into area defined by the terminal halides from four adjacent (邻近的) 
+                            corner-sharing octahedra. It strictly called steric hindrance (位阻). 
+  If organic molecules two narrow, the structure can accommodate by allowing organicmolecules to tilt (倾斜). 
 
+  Some words explaining:
+                                       derivatives 派生物
+                                 conformation 构造
+3.1 <100>-orientation
+  
+ Some words explaining:
+                                      stoichiometry 化学计量学
 Questions:
-1. This article mentions that the band gap would be increasing while the degree of the inorganic framework distortion becomes higher. 
+1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
       Could I consider it as due to the distortion constraining the electrons' movement ?
