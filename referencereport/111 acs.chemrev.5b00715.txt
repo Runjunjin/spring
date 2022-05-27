@@ -1,0 +1,42 @@
+(This article is a Review)
+Title: Organic-Inorganic Perovskites: Structural Versatility (多功能) for Functional Materials Design
+Abstract: the key words are lead (+2) halid perovskites, Lower-dimensional organic based perovskites family and synergistic (协同) features.
+The main Contents as follows:
+  2. 3D Organic-Inorganic Perovskites
+  3. Lower-Dimensional Organic-Inorganic Perovskites
+  4. Molecular Perovskites
+  7. Exceptional Properties and Device Application: like magnetic, dielectric, electrical transport, optical, optoelectronic and charge storage.
+
+1. Introductions
+  The compounds whose general formula could be expressed as CH3NH3(Pb,Sn)(I,Br)3 become the most notably perovskite materials. 
+  The possibility for ultra low-cost-per-watt photovoltaic operation originate from the confluence of several factors, including extremely high optical
+     absorption, small effective masses (质量) for electrons and holes, dominant point defects (缺陷) that only generate shallow (浅的) levels (能级) and grain
+     boundaries that are essentially benign (良性的). 
+  The methylammonium cation (CH3NH3 +) may play a role in the special suitability of the hybrid materials for photovoltaic (PV) application, through a low 
+     barrier to reorientation within the structure and contributions to the dielectric/ferroelectric properties. 
+
+Some explaination for words:
+                                            PV means photovoltaic (光伏)
+                                            lead means Pb and tin means Sn
+                                            Chromophoric luminescent 发色团发光
+                                            polarizable 可极化的
+                                            polymerizable 可聚合的
+                                            photocatalysis 光催化
+2. 3D Organic-Inorganic Perovskites
+  Perovskite refers to the mineral (矿物) CaTiO3 and any structure adopting the same ABX3 three-dimensional (3-D) structural framework. 
+  In the case of organic-inorganic hybrid perovskites, at least one of the 'A', 'B', or 'X' ions are organic. 
+  Space filling ionic size constrains dictate (命令) whether a certain set of 'A', 'B', or 'X' ions may adopt the perovskite framework, which involves a 
+      corner-sharing network of BX6 octahedra, with the 'A' cations occupying 12-fold coordinated holes within the structure and counterbalancing the 
+      charge of the BX3 extended anion. 
+  In the perovskites structure, the 'A', 'B' and 'X' cations occupy the apex (顶点) of a cell, the core of a cell and the face center of a cell, resoectively.  
+  The Tolerance Factor (t) concept, namely (RA+Rx) = t*2^(0.5) (RB+Rx), where R is the ionic radii for the corresponding ions.
+  The nonspherically (非球面地) symmetric (对称的) organic cations and charged complexes have a great challenge to assign (指定) their radii. 
+  With the assumption of the molecule being free to rotate (旋转) about its center of mass, Assigning effective radii for organic cations (t=1) becomes
+     possible.
+  The limit on RA is found to be approximately 2.6 Å for traditional BX3− frameworks with B = divalent metal and X = halogen.
+  If A cation is monovalent (单价的) and X cation is a halogen with full occupation, B cation must be divalent (二价的) because of the charge balance. 
+
+
+Questions:
+1. This article mentions that the band gap would be increasing while the degree of the inorganic framework distortion becomes higher. 
+      Could I consider it as due to the distortion constraining the electrons' movement ?
