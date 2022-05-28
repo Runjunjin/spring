@@ -62,7 +62,12 @@ Some explaination for words:
 3.1 <100>-orientation
   Dimensional reduction has significant impact on physical properties. e.g. The band gap increases as the dimensionality of the structure is lowered. 
   The more different set of electronegativities (电负性), the larger band gap of the compounds. 
-
+  In two dimensions between adjacent inorganic layers, the alkyl chains of bilayers are liquid-like (T>Tm)
+  Imidazolium (咪唑头) group of the organic cation has steric hindrance to hydrogen bomding (氢键位阻). 
+  The buckling of inorganic layers and B-I-B angles have important influence on the crystallography, chemical bonding and the band gaps of the materials. 
+  Generally, the large B-I-B angles which indicates that the degree of distortion of the inorganic framework is small leads the narrow band gap of materials. 
+  Distortions are determined by the relative charge density and steric requirements of the organic cations. 
+  
 
  Some words explaining:
                                       stoichiometry 化学计量学
@@ -73,6 +78,14 @@ Some explaination for words:
                                       melting 熔融的
                                       methylene 亚甲基
                                       conformational disorder 构象无序
+                                      alkyl 烷基                                              simulation 模拟，计算
+                                dication 二价阳离子
+                                iodide 碘化物                                          flat 平坦，平缓
+                                deviation 偏离，误差                                normal 法线
+                                imidazolium 咪唑头                                  quaternary 4个一组的，季（伯仲叔季）
+                                the quaternary ammonium group 季铵盐        corrugation 波纹
+                                buckling 粗糙度                                       equatorial 近赤道的
+
 
 Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
