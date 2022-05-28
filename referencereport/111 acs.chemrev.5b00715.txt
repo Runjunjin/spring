@@ -114,7 +114,7 @@ Some explaination for words:
                                       staggered 交错的                                 cross-sectional area 横截面积
 
 3.2 <110>-oriented perovskites  A'2 Am Bm X3m+2
-  The [NH2C(1)=NH2]2 (CH3NH3)m Snm I3m+2 series includes formation of hydrogen bonds down the channels of the ⟨110⟩-oriented perovskite layers, 
+  The [NH2C(1)=NH2]2 (CH3NH3)m Snm I3m+2 series includes formation of hydrogen bonds down the channels of (沿着) the ⟨110⟩-oriented perovskite layers, 
               and the fact that the iodine atoms of the iodoformamidinium cation complete the 12-fold coordination environment around the methylammonium cation. 
      m = 1−4 members of  the [NH2C(I)=NH2]2 - (CH3NH3)m Snm I3m+2 series include the m = 1, 1-D-chain structures 
           [NH2C(I)=NH2]2 A Sn I5 (A = NH2C(I)=NH2+ or NH2CH=NH2+)
@@ -140,12 +140,26 @@ Some explaination for words:
                                   sublattice 子格，亚点阵                     deformation 变形
                                   symmetry 对称                                  ternary 三元的
                                   contorted 弯曲的                               formamidinium  甲脒
+                                  down the channels of  沿着
 
-3.3 <111>-oriented Perovskites
-  
+3.3 <111>-oriented Perovskites A'2 Aq-1 Bq X3q+3
+  By changing the position of the aminomethyl group on the six-membered pyridine (吡啶) ring, synthesized 2-(aminomethyl) pyridinium (H2 2-AMP)2+, 
+           3 -(aminomethyl) pyridinium (H2 3-AMP) 2+, and 4 -(aminomethyl) pyridinium (H2 4-AMP) 2+ cations, 
+           which were subsequently used to obtain perovskite structures of different dimensionality under similar experimental conditions. 
+  The resultant compounds (H2 2-AMP) Pb Br4, ( H2 3-AMP)2 Pb Br6, and (H2 4-AMP) Pb Br4 feature ⟨100⟩-oriented 2-D layers,
+           ⟨111⟩-oriented 0-D clusters, and 1-D-chains formed by edgesharing octahedra, respectively. 
+  Their their steric hindrance and hydrogen bonding capabilities are very different from each other. 
+   
+
   Some words explaining: 
                                       aromatic 芳香的                                 isomers 同分异构体
-                                
+                                      subtle 不易察觉的                             intra- 内                                  inter- 间
+                                      isoelectronic 等电子的                       masses 质量
+                                      effective masses 有效质量                 dispersive 弥散的
+                                      perpendicular 正交的                         handicap 阻碍
+                                      pnictogen 氮族元素                          deficient 缺陷
+                                      conjecture 猜想                                 stumbling block 绊脚石
+                                      fractional 小数
 
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
