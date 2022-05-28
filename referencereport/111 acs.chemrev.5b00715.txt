@@ -49,7 +49,7 @@ Some explaination for words:
   The <111>-oriented family, A'2 Aq-1 Bq X3q+3 (透视，各点X都需计入。Becasue of perspective, all the X site should be counted. ). 0-D
   A-R group: 
                     The A must contain terminal functional groups that can ionically interact with the anionic inorganic substructure (基底), but without 
-                 the rest of the organic molecule interfering with the inorganic components 'B' and 'X'. 
+                       the rest of the organic molecule interfering with the inorganic components 'B' and 'X'. 
   2-D perovskite: 
                            There is no definitive restriction for the length of the interlayer organic cation. 
                             But there is a restrictioin for the width, which must fit into area defined by the terminal halides from four adjacent (邻近的) 
@@ -67,27 +67,44 @@ Some explaination for words:
   The buckling of inorganic layers and B-I-B angles have important influence on the crystallography, chemical bonding and the band gaps of the materials. 
   Generally, the large B-I-B angles which indicates that the degree of distortion of the inorganic framework is small leads the narrow band gap of materials. 
   Distortions are determined by the relative charge density and steric requirements of the organic cations. 
+  The electronic structure is influenced by there aspects, including B-I-B bond angle, B-I bond distance (or length) and distortion of BI6 octahedra (B=Sn). 
+  A convenient way of controlling the in- and out-of-plane distortions is by employing bifunctional organoammonium cations such as 
+         Y(CH2)2 NH3+ (Y = OH, Cl, Br, I, CN) in the (Y−(CH2)2 NH3)2 Pb I4
+  Upon heating (Br−(CH2)2NH3)2PbI4 (Y=Br) at 50−150 °C, halogen exchange between the organic and inorganic frameworks occurs yielding 
+         (Br−(CH2)2NH3)2−x (I−(CH2)2NH3)x Pb Brx I4−x with xmax ∼ 1.85.
+  In compound (I(CH2)2NH3)x Pb Brx I4-x, there is strong hydrogen bonding which leads distortion of octahedra and further causes the band gap to increase. 
+  In (HO(CH2)2NH3)2 Pb I4 (Y = OH), the CH2CH2NH3 fragment lies within the inorganic layers, with the − OH functional group also playing an active role in 
+         hydrogen bonding and with both the inorganic framework and the adjacent organic cation forming supramolecular dimers (超分子二聚体). Consequently, 
+         the inorganic sheet are less distorted than Y=I and more distorted than Y=Cl, Br. 
+  The ns2 lone pair which manifests (显示) itself as a distortion of the BX6 octahedra and originates from the mixing of the frontier HOMO 
+        (highest occupied molecular orbital)−LUMO (lowest unoccupied molecular orbital) orbitals known as a second-order Jahn−Teller (SOJT) effect that are 
+        observed for d0 and ns2 d0 cations. According to this theory, the distortions of the metal centered BX6 octahedra lead to a stabilization (稳定化) of the HOMO 
+        and destabilization (不稳定化) of the LUMO, which increases the band gap. 
+  The (I3)- and [AuI2]- are related and exchangeable, which is similar to the (I5)- and [AuI4]-. 
+  
   
 
  Some words explaining:
-                                      stoichiometry 化学计量学
-                                      lipid bilayers 脂质双层
+                                      stoichiometry 化学计量学                                  stabilization-- the energy level decreases
+                                      lipid bilayers 脂质双层                                      destanilization-- the energy level increases
                                       be anchored to 被固定在
                                       rotation 旋转
                                       regular dynamic 正则动态（动力学）
                                       melting 熔融的
                                       methylene 亚甲基
                                       conformational disorder 构象无序
-                                      alkyl 烷基                                              simulation 模拟，计算
-                                dication 二价阳离子
-                                iodide 碘化物                                          flat 平坦，平缓
-                                deviation 偏离，误差                                normal 法线
-                                imidazolium 咪唑头                                  quaternary 4个一组的，季（伯仲叔季）
-                                the quaternary ammonium group 季铵盐        corrugation 波纹
-                                buckling 粗糙度                                       equatorial 近赤道的
+                                      alkyl 烷基                                                 simulation 模拟，计算
+                                      dication 二价阳离子
+                                      iodide 碘化物                                           flat 平坦，平缓
+                                      deviation 偏离，误差                               normal 法线
+                                      imidazolium 咪唑头                                  quaternary 4个一组的，季（伯仲叔季）
+                                      the quaternary ammonium group 季铵盐     corrugation 波纹
+                                      buckling 粗糙度                                        equatorial 近赤道的
+                                      disperse 分散                                      gauche 笨拙的，相同的
+                                 staggered 交错的
 
 
-Questions:
+Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
       Could I consider it as due to the distortion constraining the electrons' movement ? Because it is similar to the effect of electronegativities (电负性)
       on the band gap of the compounds, which shows that more different set of electronegativities leads the larger band gap of the compounds. 
