@@ -59,7 +59,7 @@ Some explaination for words:
   Some words explaining:
                                        derivatives 派生物
                                        conformation 构造
-3.1 <100>-orientation
+3.1 <100>-orientation (RNH3)2 An-1 Bn X3n+1
   Dimensional reduction has significant impact on physical properties. e.g. The band gap increases as the dimensionality of the structure is lowered. 
   The more different set of electronegativities (电负性), the larger band gap of the compounds. 
   In two dimensions between adjacent inorganic layers, the alkyl chains of bilayers are liquid-like (T>Tm)
@@ -80,9 +80,19 @@ Some explaination for words:
         (highest occupied molecular orbital)−LUMO (lowest unoccupied molecular orbital) orbitals known as a second-order Jahn−Teller (SOJT) effect that are 
         observed for d0 and ns2 d0 cations. According to this theory, the distortions of the metal centered BX6 octahedra lead to a stabilization (稳定化) of the HOMO 
         and destabilization (不稳定化) of the LUMO, which increases the band gap. 
-  The (I3)- and [AuI2]- are related and exchangeable, which is similar to the (I5)- and [AuI4]-. 
-  
-  
+  The (I3)- and [AuI2]- are related and exchangeable, which is similar to the (I5)- and [AuI4]-. So the (I3)- could be extracted. 
+  The linear ion, the thiocyanate SCN− anion, could be used for photovoltaics (PV) and solid state chemistry communities. It was found that incorporation (合并) of 
+         a small amount of  Pb(SCN)2 (5 wt %) into the regular two-step solution deposition of CH3NH3PbI3 films resulted in better film qualities with larger grain sizes, 
+         which resulted in improved power conversion (转换) efficiencies (PCE) and a noticeable enhancement in the photoluminescence emission quantum yield (产率).  
+  Solar cells with a targeted CH3NH3Pb(SCN)2I composition showed similar PCE values to the CH3NH3PbI3 films, but the films containing thiocyanate ions 
+         were reported to provide enhanced stability under moist (潮湿的) air.
+  Low band gap is an target for potential electro-optical applications. 
+
+  (RNH3)2PbX4, r is number of atoms in the ring of R
+     It should be noted that large cross-sectional (横截面的) area organic cations or a geometry (几何形状) that provides steric hindrance are not essential for obtaining 1-D 
+         compounds. 
+     r=3 (cyclopropylammonium 环丙基胺) to r=6 (cyclohexylammonium 环己基胺) is 2-D, however, r=7 (cycloheptylammonium) gives 1-D chains of 
+             corner-sharing octahedra in (C7H13NH3)3PbI5 and (C7H13NH3)3PbBr5·H2O. 
 
  Some words explaining:
                                       stoichiometry 化学计量学                                  stabilization-- the energy level decreases
@@ -100,11 +110,45 @@ Some explaination for words:
                                       imidazolium 咪唑头                                  quaternary 4个一组的，季（伯仲叔季）
                                       the quaternary ammonium group 季铵盐     corrugation 波纹
                                       buckling 粗糙度                                        equatorial 近赤道的
-                                      disperse 分散                                      gauche 笨拙的，相同的
-                                 staggered 交错的
+                                      disperse 分散                                            gauche 笨拙的，相同的
+                                      staggered 交错的                                 cross-sectional area 横截面积
 
+3.2 <110>-oriented perovskites  A'2 Am Bm X3m+2
+  The [NH2C(1)=NH2]2 (CH3NH3)m Snm I3m+2 series includes formation of hydrogen bonds down the channels of the ⟨110⟩-oriented perovskite layers, 
+              and the fact that the iodine atoms of the iodoformamidinium cation complete the 12-fold coordination environment around the methylammonium cation. 
+     m = 1−4 members of  the [NH2C(I)=NH2]2 - (CH3NH3)m Snm I3m+2 series include the m = 1, 1-D-chain structures 
+          [NH2C(I)=NH2]2 A Sn I5 (A = NH2C(I)=NH2+ or NH2CH=NH2+)
+     the m = 2, 2-D-layered structure [NH2C(I)=NH2]2 (CH3NH3)2 Sn2 I8
+     while m is increased further, the thickness of the perovskite layers also increases, with m = ∞ corresponding to the 3-D parent perovskite structure. 
+      Therefore, this ⟨110⟩-oriented family allows tuning of the dimensionality of the perovskite structure from the 3-D parent structure to various-thickness 2-D 
+             layers in the m = 2−4 members, and to 1-D chains in the m = 1 member. 
+  
+  Some examples:
+                           m=1: [CH3SC(=NH2)NH2]3 Pb I5 shows that other organoammonium cations can template this structure.
+                           m=2: [C(NH2)3]2 Pb I4 undergoes a ferroelastic phase transition at 307 K. 
+                           m=2: (C6H13N3) Pb Br4 (or (C6H13N3)2 Pb2 Br8) is an optically active material featuring a primary amine (伯胺) as a functional group 
+                                    attached to the imidazole heterocyclic ring. A ternary ammonium cation in the ring, which asserts steric hindrance for the formation 
+                                    of a perovskite framework.
+                                           In (C3H11SN3) Pb Br4, the organic cation which combines a primary ammonium and a formamidinium (甲脒) head on the two opposite 
+                                           ends of the molecule leads to contorted inorganic layers 
+
+  The highly distorted inorganic framework of this compound can also be described as an assembly of loosely coupled 0-D clusters. 
+
+  Some words explaining: 
+                                       analogs 类似物                                  template 模拟
+                                  assembly 组装                                                elusive 难以理解的
+                                  sublattice 子格，亚点阵                     deformation 变形
+                                  symmetry 对称                                  ternary 三元的
+                                  contorted 弯曲的                               formamidinium  甲脒
+
+3.3 <111>-oriented Perovskites
+  
+  Some words explaining: 
+                                      aromatic 芳香的                                 isomers 同分异构体
+                                
 
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
       Could I consider it as due to the distortion constraining the electrons' movement ? Because it is similar to the effect of electronegativities (电负性)
       on the band gap of the compounds, which shows that more different set of electronegativities leads the larger band gap of the compounds. 
+2. 
