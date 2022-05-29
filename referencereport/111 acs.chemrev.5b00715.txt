@@ -76,6 +76,15 @@ Some explaination for words:
   In (HO(CH2)2NH3)2 Pb I4 (Y = OH), the CH2CH2NH3 fragment lies within the inorganic layers, with the − OH functional group also playing an active role in 
          hydrogen bonding and with both the inorganic framework and the adjacent organic cation forming supramolecular dimers (超分子二聚体). Consequently, 
          the inorganic sheet are less distorted than Y=I and more distorted than Y=Cl, Br. 
+  The B-X-B angles (β), commonly used to indicate the degree of distortion of the inorganic framework, can have out-of-plane and in-plane components.
+  the deviation (Figure 6) of the axial B−I bonds from the normal to the plane of B atoms (α) can be used as a parameter to evaluate the out-of-plane distortions 
+           in the structure. 
+
+The examples and compariation:       
+                                                The undistorted (Y−(CH2)2NH3)2 Pb I4 (Y=Cl and Br) have band gaps of 2.2 eV and have a distinctly more disperse (分散)
+                                                      HOMO band compared to the highly distorted (I−(CH2)2NH3)2 Pb I4, which has a larger band gap of 2.45 eV. 
+                                         
+
   The ns2 lone pair which manifests (显示) itself as a distortion of the BX6 octahedra and originates from the mixing of the frontier HOMO 
         (highest occupied molecular orbital)−LUMO (lowest unoccupied molecular orbital) orbitals known as a second-order Jahn−Teller (SOJT) effect that are 
         observed for d0 and ns2 d0 cations. According to this theory, the distortions of the metal centered BX6 octahedra lead to a stabilization (稳定化) of the HOMO 
@@ -142,14 +151,36 @@ Some explaination for words:
                                   contorted 弯曲的                               formamidinium  甲脒
                                   down the channels of  沿着
 
-3.3 <111>-oriented Perovskites A'2 Aq-1 Bq X3q+3
+3.3 <111>-oriented Perovskites A'2 Aq-1 Bq X3q+3, A'-interlayer, A-intralayer. 
   By changing the position of the aminomethyl group on the six-membered pyridine (吡啶) ring, synthesized 2-(aminomethyl) pyridinium (H2 2-AMP)2+, 
            3 -(aminomethyl) pyridinium (H2 3-AMP) 2+, and 4 -(aminomethyl) pyridinium (H2 4-AMP) 2+ cations, 
            which were subsequently used to obtain perovskite structures of different dimensionality under similar experimental conditions. 
   The resultant compounds (H2 2-AMP) Pb Br4, ( H2 3-AMP)2 Pb Br6, and (H2 4-AMP) Pb Br4 feature ⟨100⟩-oriented 2-D layers,
            ⟨111⟩-oriented 0-D clusters, and 1-D-chains formed by edgesharing octahedra, respectively. 
   Their their steric hindrance and hydrogen bonding capabilities are very different from each other. 
-   
+  It is somewhat unexpected that the ⟨100⟩-oriented layered (H2 2-AMP) Pb Br4 and ⟨111⟩-oriented 0-D cluster compound (H2 3-AMP)2 Pb Br6 have similar
+           band gap values of ∼2.8 eV. One of the reasons for the close band gap values may be due to the SOJT effect (or stereochemical activity of 
+              the Pb lone pair states). 
+  
+  Some examples:
+                          q=1: (H2 3-AMP)2 Pb Br6 belong to the cubic K2 Pt Cl6 -type structure,mixed-valent [N(CH3)4]2 Sb(III)0.5 Sb(V)0.5 Cl6, 
+                                            and [N(C2H5)4]2 Sb(III)0.5 Sb(V)0.5 Cl6 may be rare examples of q = 1 members with larger organic cations. 
+                                   Cs2 Sn I6 has recently been used as a hole conductor in a solar cell device
+                                   A2 Te X6 (A = NH4+, K+, R b+, C s+, T l+; X = C l−, Br−, I−) featuring Te4+, which is isoelectronic to for example Sn2+ and Pb2+. 
+                                   The q=1 structure be able to accept a wide range of components as long as the charge balance is preserved. 
+                               q=2:  including (NH4)3 Sb2 I9, (CH3NH3)3 Bi2 Br9, [NH2(CH3)2]3 Sb2 Cl9, [NH(CH3)3]3 Sb2 Cl9, and (CH3NH3)3 Sb2 I9, featuring
+                                   small organic cations. The q=2 members crystallize in the α-Cs3 Sb2 Cl9 structure type, feature Cs+ and Rb+ cations. 
+                                   The α-Cs3 Sb2 Cl9 structure type has be examined as prospective Pb-free perovskite for use in PV devices. 
+                                   Two interesting features are common in all of the known q =2 members so far: 
+                                                 (1) the metal cations are trivalent pnictogens due to the charge balance. 
+                                                 (2) there is only little difference between the thickness of the single inorganic sheet and the interlayer distance 
+                                                                   due to the small sizes of the interlayer organic and inorganic cations and, as such (因此), 
+                                                                   these compositions could have also adopted Sb(Bi)-deficient 3-D perovskite structures with a random distribution of vacancies. 
+                                          The preference for forming the q = 2 member of the ⟨111⟩-oriented A3B2X9 perovskites with a small A+ cation 
+                                         (as opposed to a disordered 3-D perovskite), therefore, could be attributed to a greater stability of this structure (i.e., thermodynamic sink) 
+                                         in the energy landscape of the perovskite compounds. 
+                           
+                                          
 
   Some words explaining: 
                                       aromatic 芳香的                                 isomers 同分异构体
