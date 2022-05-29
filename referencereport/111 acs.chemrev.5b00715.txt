@@ -191,7 +191,7 @@ The examples and compariation:
                                    A2 Te X6 (A = NH4+, K+, R b+, C s+, T l+; X = C l−, Br−, I−) featuring Te4+, which is isoelectronic to for example Sn2+ and Pb2+. 
                                    The q=1 structure be able to accept a wide range of components as long as the charge balance is preserved. 
 
-                               q=2:  including (NH4)3 Sb2 I9, (CH3NH3)3 Bi2 Br9, [NH2(CH3)2]3 Sb2 Cl9, [NH(CH3)3]3 Sb2 Cl9, and (CH3NH3)3 Sb2 I9, featuring
+   (A3B2X9, A'=A)q=2:  including (NH4)3 Sb2 I9, (CH3NH3)3 Bi2 Br9, [NH2(CH3)2]3 Sb2 Cl9, [NH(CH3)3]3 Sb2 Cl9, and (CH3NH3)3 Sb2 I9, featuring
                                    small organic cations. The q=2 members crystallize in the α-Cs3 Sb2 Cl9 structure type, feature Cs+ and Rb+ cations. 
                                    The α-Cs3 Sb2 Cl9 structure type has be examined as prospective Pb-free perovskite for use in PV devices. 
                                    Two interesting features are common in all of the known q =2 members so far: 
@@ -201,16 +201,35 @@ The examples and compariation:
                                                        these compositions could have also adopted Sb(Bi)-deficient 3-D perovskite structures with a random distribution of vacancies. 
 
                                                        This conjecture is supported by the fact that cations such as CH3NH3 + can be incorporated into the 3-D perovskite structure, 
-                                                                        as evidenced by the well-known photovoltaic material CH3NH3 Pb I3. 
-                                                                        Another supporting evidence is that the Sb and Bi vacancies can also be disordered in the ⟨100⟩-oriented layered perovskite 
-                                                                           framework, as demonstrated by the above-mentioned (H2AEQT) B2/3 I4 compounds that feature random distributions 
-                                                                           of Sb and Bi vacancies in the perovskite layers.
+                                                             as evidenced by the well-known photovoltaic material CH3NH3 Pb I3. 
+                                                             Another supporting evidence is that the Sb and Bi vacancies can also be disordered in the ⟨100⟩-oriented layered perovskite 
+                                                             framework, as demonstrated by the above-mentioned (H2AEQT) B2/3 I4 compounds that feature random distributions 
+                                                             of Sb and Bi vacancies in the perovskite layers.
 
                                       The preference for forming the q = 2 member of the ⟨111⟩-oriented A3 B2 X9 perovskites with a small A+ cation 
                                        (as opposed to a disordered 3-D perovskite), therefore, could be attributed to a greater stability of this structure (i.e., thermodynamic sink) 
                                        in the energy landscape of the perovskite compounds. 
-                           
-  
+
+                                       In principle, there should be no constraints for the interlayer A′ cation length for the q = 2 members of the ⟨111⟩-oriented perovskites, 
+                                                if the intralayer “A” site is populated with smaller cations. But no q = 2 members with two very different cations have been reported to date. 
+
+                                        The q=2 perovskite structure collapses when the size of the organic cation is too big. 
+                                                     For example, [NH(CH3)3]3 Sb2 Cl9 adopts the layered ⟨111⟩-oriented perovskite structure, 
+                                                     while [N(CH3)4]3 Sb2 Cl9 features [Sb2Cl9] (3-) dimers (二聚体) made of two SbCl6 face-sharing octahedra. 
+                                                     The hydrogen bonding abilities of [NH(CH3)3]+ and [N(CH3)4]+ cations are quite different, which may contribute to the
+                                                 difference in the observed structural preference. 
+
+                                        The dimer structure is a competing phase for many of the q = 2 members, and for compounds such as Cs3 Sb2 I9 
+                                              and (CH3NH3)3 Sb2 I9, this polymorph is obtained from solution, 
+                                              whereas the layered modification may be obtained from solid state or gas phase reactions. 
+
+                                         Small A+ cations is therefore a stumbling block for the preparation of the q = 2 members with two cations of different sizes (A′+ and A+) 
+                                                       and higher order q > 2 members of the ⟨111⟩-oriented series A′2 Aq‑1 Bq X3q+3. 
+
+                                                  This complicates the synthesis of the ∞> q> 2 members, because, unless a mixture of organic ammonium
+                                              and diammonium cations were to be used, the oxidation state on the B cation must be fractional, i.e. between +2 and +3, and
+                                              a mixture of two or more B-cations (or oxidation states for a single B cation) is necessary. 
+
 
   Some words explaining: 
                                       aromatic 芳香的                                 isomers 同分异构体
@@ -221,6 +240,94 @@ The examples and compariation:
                                       pnictogen 氮族元素                          deficient 缺陷
                                       conjecture 猜想                                 stumbling block 绊脚石
                                       fractional 小数
+
+3.4 More Exotic (奇特的) Frameworks 
+  1)The role of “spectator” ions (i.e., species that are added to the reaction medium but do not feature in the final compound in a measurable concentration), 
+           remains under-explored. (see examples in later Examples and explaination 1))
+  2)The fact that the reaction conditions in general, and the addition of uncommon reactants in particular, can influence the way in which 
+         the perovskite structure is fragmented can be exemplified by the 2-D staircase [Pb4I18]10− sheets in 
+         [(H2en)7(C2O4)2][Pb4 I18]·4H2O, where en = ethylendiamine (乙二胺). (see examples in later Examples and explaination 2))
+
+  Examples and explaination: 
+     1)α-[NH3(CH2)5NH3] Sn I4, which features zigzag perovskite layers that are separated by 1,5-pentanediammonium (戊二铵) cations. 
+          Under regular synthetic conditions, the β-phase containing ⟨100⟩-oriented [SnI4]2- layers is formed, whereas the α-phase is obtained 
+            when CH3NH3 I is added to the reaction medium. 
+            This was attributed to a possible formation of CH3NH3 Sn I3 and subsequent more irregular fragmentation of the 3-D structure, 
+              but the detail is not clear.  
+
+            The α-phase feature trans- and cis-shared SnI6 octahedra, can be seen as a combination of the ⟨100⟩- and the ⟨110⟩-oriented layers. 
+                     In an alternative description of the α-[NH3(CH2)5NH3] Sn I4 structure, the layers are composed of 4-octahedra long ⟨100⟩-
+                     oriented layer fragments that are interconnected at 45° angles to form a zigzag morphology (形态学). 
+
+        2)[(H2en)7(C2O4)2][Pb4 I18]·4H2O is obtained by a solvothermal reaction of PbI2, K2C2O4·H2O, and en in a concentrated HI and ethanol solution. 
+              The authors note the importance of reaction conditions, including pH ∼ 1 and the K2C2O4·H2O reactant,
+                which cannot be replaced by H2C2O4. The C2O42− anions play a pivotal role in the formation of the structure, as they are
+                 incorporated with organic cations (H2en)2+ forming supramolecular assemblies of distinct (不同的) shapes-
+                 -the nominal cationic layer [(H2en)7(C2O4)2]10+. 
+                    [(H2en)7(C2O4)2]10+ plays, not only a cotemplating role, but also necessitates an unprecedented charge of −10 in the inorganic [Pb4I18]10− sheets. 
+
+               Four PbI6 octahedra share corners to form tetrameric Pb4I20 building blocks, and these tetramers (四聚体) further share corners in a staircase fashion to form
+                the anionic [Pb4I18]10− layers in the structure. 
+
+              [(H2en)7(C2O4)2][Pb4I18]·4H2O is reported as a direct band gap semiconductor with an optical band gap of 2.47 eV. 
+
+  Some words explaining:
+                                      species 物种                                spectator 观众
+                                 trans- 反式                                  fragments 碎片
+                                 cis- 顺式                                     reactants 反应物
+                                 staircase 楼梯                               pivotal 关键的
+                                 distinct shapes 独特形状，不同形状 nominal 名义上的
+                                 unprecedented 前所未有的              tetrameric 四聚物
+                                 iodide 碘化物                               lead iodide 碘化铅
+                                 negligible 微不足道的                    sheet 薄片
+
+4. Functional Organic Cations
+   1)Larger degree of conjugation (共轭，后指噻吩环个数，链的长度) provides a smaller HOMO−LUMO separation which determines the band gap. 
+  
+   2)A number of other examples in which energy/charge transfer between organic and inorganic components of the perovskite structure have been explored
+       include naphthalene and pyrene (吡) derivatives within lead(II) halide frameworks. 
+
+  Examples:
+                  1)5,5‴-bis(aminoethyl)-2,2′:5′,2″:5″,2‴-quaterthio-phene (AEQT) into a ⟨100⟩-oriented layered lead(II) halide perovskite framework. AEQT Pb X4
+                      Oligothiophenes (低聚噻吩) are particularly useful for electronic structure engineering studies because the HOMO−LUMO separation 
+                       can readily be tailored relative to the band gap of the inorganic component of the structure by changing the length of the thiophene (噻吩) chain. 
+
+                      With “n” representing the number of α-linked thiophene (噻吩) rings within the chain, the absorption peak associated with the 
+                        HOMO−LUMO separation varies from between approximately 302 nm (4.1 eV) for n=2 to 432 nm (2.9 eV) for n=6. 
+                   The quaterthiophene (n = 4) molecule, with its ∼3.2 eV HOMO−LUMO separation, perfectly intersects the band gap range offered for 
+                        the lead(II) halide perovskite sheet, as often monitored by the associated exciton absorption peak−i.e.,AEQT Pb X4
+                        approximately 330 nm (3.8 eV) for X = Cl, 400 nm (3.1 eV) for X = Br and 500 nm (2.5eV) for X=I. 
+
+                      While Förster resonant energy transfer involves energy transfer through nonradiative dipole-dipole coupling 
+                        and is inversely proportional to the sixth power of the distance between the donor and acceptor, 
+                        Dexter charge transfer processes involve the nonradiative transfer of an excited electron from one species to the other 
+                        and has a stronger exponential decay with separation. 
+
+                 2)3-2-(aminoethyl 氨基乙基) indole 吲哚 (C8NH6−CH2CH2NH2) incorporated in a [CuCl4]2- framework;
+                    azobenzene (偶氮苯) associated with [CdBr4]2−, mixtures of organic cations (chromophore (发色团) and nonchromophore) 
+                    within a [PbBr4]2- framework, and ⟨110⟩-oriented structures stabilized by n-(3-aminopropyl 氨丙基) imidazole (咪唑). 
+
+                     Such studies involving quaterthiophene (四噻吩), naphthalene (萘) and related aromatic (芳香的) organic components
+                     display the unique flexibility of the organic-inorganic perovskites to allow electronic tunability of both organic and
+                     inorganic species to create a cooperative (协同的) response.
+
+
+The explanation of Figues:
+              Fig19:
+                        the exciton band (EB) for the inorganic framework. 
+                        GS refers to the ground state for each of the transitions.
+                        The zigzag lines correspond to possible nonradiative transitions.
+
+  Some words explaining:
+                                     palette 调色板                                 conjugation 共轭
+                                prototypical 典型的                           tailored 定做的
+                                vary from A to B 在A到B间变化          intersect 与相交
+                                exciton 激子                                     quenching 猝灭
+                                conversion 转变                                spectral 光谱
+                                overlap 重叠                                    dipole 偶极子
+                                inversely 相反地                               proportional 成比例
+                                the six power 六次方                         exponential 指数的
+                                chromophore 发色团                         exciton band-EB
 
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
