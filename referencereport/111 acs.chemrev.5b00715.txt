@@ -286,6 +286,14 @@ The examples and compariation:
   
    2)A number of other examples in which energy/charge transfer between organic and inorganic components of the perovskite structure have been explored
        include naphthalene and pyrene (吡) derivatives within lead(II) halide frameworks. 
+   3)If we view the organic−inorganic perovskite structure as a self-assembling multilayer quantum well (QW), then perhaps the organic and inorganic components 
+        can be selected such that they will enable tuning between a type I quantum well system and type II. (I型和II型间调节)
+      Type-I: the lowest energy state for both electrons and holes may be on the organic cation layer
+      Type-II: the valence band is expected to shift up and the lowest energy state for electrons 
+                        and holes may then be on different components of the structure. 
+   4)Inclusion of more complex and larger organic moieties has also been attempted with other motivations (动机) in mind (考虑在内). 
+       
+  
 
   Examples:
                   1)5,5‴-bis(aminoethyl)-2,2′:5′,2″:5″,2‴-quaterthio-phene (AEQT) into a ⟨100⟩-oriented layered lead(II) halide perovskite framework. AEQT Pb X4
@@ -303,20 +311,46 @@ The examples and compariation:
                         Dexter charge transfer processes involve the nonradiative transfer of an excited electron from one species to the other 
                         and has a stronger exponential decay with separation. 
 
-                 2)3-2-(aminoethyl 氨基乙基) indole 吲哚 (C8NH6−CH2CH2NH2) incorporated in a [CuCl4]2- framework;
-                    azobenzene (偶氮苯) associated with [CdBr4]2−, mixtures of organic cations (chromophore (发色团) and nonchromophore) 
+                 2)3-2-(aminoethyl 氨基乙基) indole 吲哚 (C8NH6-CH2CH2NH2) incorporated in a [CuCl4]2- framework;
+                    azobenzene (偶氮苯) associated with [CdBr4]2-, mixtures of organic cations (chromophore (发色团) and nonchromophore) 
                     within a [PbBr4]2- framework, and ⟨110⟩-oriented structures stabilized by n-(3-aminopropyl 氨丙基) imidazole (咪唑). 
 
                      Such studies involving quaterthiophene (四噻吩), naphthalene (萘) and related aromatic (芳香的) organic components
                      display the unique flexibility of the organic-inorganic perovskites to allow electronic tunability of both organic and
                      inorganic species to create a cooperative (协同的) response.
 
+                 3)For the AEQT Pb X4 hybrid discussed earlier, for X=Cl wherein the band gap is significantly larger than the HOMO−LUMO separation of 
+                         the organic molecule, the lowest energy state for both electrons and holes may be on the organic cation layer. 
+                         In contrast, as the halide is shifted from X = Cl to Br and I, the valence band is expected to shift up and the lowest energy state for electrons 
+                         and holes may then be on different components of the structure. (Fig20)
+
+                     Photoluminescence quenching of the AEQT molecule in the X = I structure is consistent with this model. 
+
+                 4)[Cu(O2C−(CH2)3−NH3)2] Pb Br4, incorporation of Cu2(CO2)4 “paddle-wheel” (浆轮) clusters, with the anionic part of the molecule 
+                     complexing to the metal and the cationic part serving to tether onto the [PbBr4]2- sheets, can be accomplished using amino (氨基) 
+                     carboxylic (羧基的) acid zwitterionic (两性离子的) molecules. 
+
+                     The coordinated metal clusters constitute “secondary building units” (SBUs) and have been used to 
+                     design porous (多孔的) metal-organic frameworks (MOFs).
+
+                     One special structural feature is that the terminal ligands (配体) of the Cu2(CO2)4 moiety are coordinated by apical (顶端的) bromines (Br) 
+                         from the [PbBr4]2- sheets, thereby creating Br−Cu−Cu-Br covalent linkages between nearest-neighbor perovskite layers (Fig22)
+                         and increasing the effective dimensionality of the material (at least from a structural point of view). 
+
+                     Use of such SBUs may provide a structured approach to modified electrical transport and optical response. 
+
+
 
 The explanation of Figues:
               Fig19:
                         the exciton band (EB) for the inorganic framework. 
                         GS refers to the ground state for each of the transitions.
-                        The zigzag lines correspond to possible nonradiative transitions.
+                        The zigzag lines correspond to possible nonradiative transitions. 
+              Fig20: 
+                        the valence band (VB) 价带
+                     conduction band (CB) 导带
+                     
+             
 
   Some words explaining:
                                      palette 调色板                                 conjugation 共轭
@@ -328,6 +362,10 @@ The explanation of Figues:
                                 inversely 相反地                               proportional 成比例
                                 the six power 六次方                         exponential 指数的
                                 chromophore 发色团                         exciton band-EB
+                                quantum well (QW) 量子阱             analogy 类比
+                           disparate 不同的                           nonparabolicity 非分解性
+                                tether 拴绳                                  constitue 组成
+                           ligands  配体                                apical 顶端的
 
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
