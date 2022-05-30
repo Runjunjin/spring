@@ -286,13 +286,24 @@ The examples and compariation:
   
    2)A number of other examples in which energy/charge transfer between organic and inorganic components of the perovskite structure have been explored
        include naphthalene and pyrene (吡) derivatives within lead(II) halide frameworks. 
+
    3)If we view the organic−inorganic perovskite structure as a self-assembling multilayer quantum well (QW), then perhaps the organic and inorganic components 
         can be selected such that they will enable tuning between a type I quantum well system and type II. (I型和II型间调节)
       Type-I: the lowest energy state for both electrons and holes may be on the organic cation layer
       Type-II: the valence band is expected to shift up and the lowest energy state for electrons 
                         and holes may then be on different components of the structure. 
+
    4)Inclusion of more complex and larger organic moieties has also been attempted with other motivations (动机) in mind (考虑在内). 
-       
+
+   5)Another interesting prospective example involves the incorporation of the fullerene derivatives. 
+
+   6)It is important to realize that observation of a layered structure is not, in itself, convincing evidence of the perovskite framework. 
+
+   7)Another example of larger organic cation, in this case based on cationic propylammonium (丙基氨)-functionalized polyhedral (多面体) 
+      oligomeric (低聚的) silsesquioxane 倍半硅氧烷 (POSS) 
+      interlayers, has been synthesized and structural studies are underway. 
+
+
   
 
   Examples:
@@ -300,13 +311,13 @@ The examples and compariation:
                       Oligothiophenes (低聚噻吩) are particularly useful for electronic structure engineering studies because the HOMO−LUMO separation 
                        can readily be tailored relative to the band gap of the inorganic component of the structure by changing the length of the thiophene (噻吩) chain. 
 
-                      With “n” representing the number of α-linked thiophene (噻吩) rings within the chain, the absorption peak associated with the 
+                       With “n” representing the number of α-linked thiophene (噻吩) rings within the chain, the absorption peak associated with the 
                         HOMO−LUMO separation varies from between approximately 302 nm (4.1 eV) for n=2 to 432 nm (2.9 eV) for n=6. 
-                   The quaterthiophene (n = 4) molecule, with its ∼3.2 eV HOMO−LUMO separation, perfectly intersects the band gap range offered for 
+                       The quaterthiophene (n = 4) molecule, with its ∼3.2 eV HOMO−LUMO separation, perfectly intersects the band gap range offered for 
                         the lead(II) halide perovskite sheet, as often monitored by the associated exciton absorption peak−i.e.,AEQT Pb X4
                         approximately 330 nm (3.8 eV) for X = Cl, 400 nm (3.1 eV) for X = Br and 500 nm (2.5eV) for X=I. 
 
-                      While Förster resonant energy transfer involves energy transfer through nonradiative dipole-dipole coupling 
+                       While Förster resonant energy transfer involves energy transfer through nonradiative dipole-dipole coupling 
                         and is inversely proportional to the sixth power of the distance between the donor and acceptor, 
                         Dexter charge transfer processes involve the nonradiative transfer of an excited electron from one species to the other 
                         and has a stronger exponential decay with separation. 
@@ -339,6 +350,35 @@ The examples and compariation:
 
                      Use of such SBUs may provide a structured approach to modified electrical transport and optical response. 
 
+                  5)N-methyl (甲基)-2-(4-ammoniumphenyl 氨苯基)-fulleropyrrolidine (富勒烯吡咯烷) iodide (AmPF-I2) 
+                         and N-(n-dodecyl 12烷基)-2-(4-ammoniumphenyl 氨苯基)-fulleropyrrolidine iodide (C12 AmPF-I2) in a lead(II) iodide framework. 
+
+                         The fullerene molecule itself has a diameter of ∼7.1 Å, rendering it a very tight prospective fit within the layered perovskite structure. [Fig24]
+                     There may be the possibility of diluting (稀释) it with long-chain alkylammonium cations to improve the fit. 
+
+                     The organic cation is doubly protonated (双重质子化的), and it may therefore be accommodated (被容纳) in the space allotted (分配的) for 
+                          two cations from the proto-typical (R-NH3)2 Pb I4 structure because of the charge balance, where the cations are monoprotonated. 
+
+                  6)(n-C12H25NH3)2 Zn Cl4 comprises a distinctly layered structure, but with layers of isolated [ZnCl4]2- tetrahedral clusters 
+                           rather than the extended perovskite sheets. 
+
+                  7)Successful preparation of [Si8O12(C3H6NH3)8]-[CuCl4]4 (CuPOSS) has been reported, along with the
+                     analogous derivatives PdPOSS, PbPOSS, and MnPOSS. 
+
+                  8)In earlier publications, the auther used 3-aminopropyltrimethoxysilane (氨基丙基三甲氧基硅烷) NH2(CH2)3Si(OCH3)3 (APS), 
+                     and the successful formation of Si−O−Si networks was evidenced from FT-IR and 29Si solid-state NMR data. 
+
+                         Suggestive (00L) peaks of the prospective perovskite sheets are observed in the powder X-ray diffraction patterns of (APS)2PbCl4 and
+                         (APS)2PbI4 films. 
+
+                         The optical band gap values calculated using these data yield 4.84 eV for (APS)2PbCl4 and 3.25 eV for (APS)2PbI4, 
+                         which are (if confirmed) among the highest reported band gap values for hybrid lead halide perovskites. 
+
+
+
+  Observation of characteristic exciton features in the absorption spectrum (光谱) is a valuable confirmation for systems containing
+  Ge(II), Sn(II), or Pb(II) halide perovskite layers (for the 100% fullerene-incorporated systems, these features are absent). 
+
 
 
 The explanation of Figues:
@@ -348,27 +388,33 @@ The explanation of Figues:
                         The zigzag lines correspond to possible nonradiative transitions. 
               Fig20: 
                         the valence band (VB) 价带
-                     conduction band (CB) 导带
+                        conduction band (CB) 导带
                      
              
 
   Some words explaining:
-                                     palette 调色板                                 conjugation 共轭
-                                prototypical 典型的                           tailored 定做的
-                                vary from A to B 在A到B间变化          intersect 与相交
-                                exciton 激子                                     quenching 猝灭
-                                conversion 转变                                spectral 光谱
-                                overlap 重叠                                    dipole 偶极子
-                                inversely 相反地                               proportional 成比例
-                                the six power 六次方                         exponential 指数的
-                                chromophore 发色团                         exciton band-EB
+                                palette 调色板                                 conjugation 共轭
+                                prototypical 典型的                         tailored 定做的
+                                vary from A to B 在A到B间变化    intersect 与相交
+                                exciton 激子                                   quenching 猝灭
+                                conversion 转变                              spectral 光谱
+                                overlap 重叠                                   dipole 偶极子
+                                inversely 相反地                             proportional 成比例
+                                the six power 六次方                       exponential 指数的
+                                chromophore 发色团                        exciton band-EB
                                 quantum well (QW) 量子阱             analogy 类比
-                           disparate 不同的                           nonparabolicity 非分解性
-                                tether 拴绳                                  constitue 组成
-                           ligands  配体                                apical 顶端的
+                                disparate 不同的                              nonparabolicity 非分解性
+                                tether 拴绳                                       constitue 组成
+                                ligands  配体                                    apical 顶端的
+                           doubly protonated 双重质子化         intricacies 错综复杂
+                            
 
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
       Could I consider it as due to the distortion constraining the electrons' movement ? Because it is similar to the effect of electronegativities (电负性)
       on the band gap of the compounds, which shows that more different set of electronegativities leads the larger band gap of the compounds. 
-2. 
+2. The band gap could be adjusted through changing the chain length of the organic cations and the degree of conjugation, and larger conjugation leads
+      smaller band gap. But the structure would collapse while the size of organic cations became too large. So, my ideal is that could we use (even design) 
+      a distorted or curly (卷曲的) organic cation to prevent the collaspes of the structure of Perovskites, and meanwhile, the organic cations could reinforce
+      the conjugation and make the layers separate as much as possible? 
+3. 
