@@ -303,8 +303,13 @@ The examples and compariation:
       oligomeric (低聚的) silsesquioxane 倍半硅氧烷 (POSS) 
       interlayers, has been synthesized and structural studies are underway. 
 
+   10)first creating polymer chains with tethering 栓系 ammonium groups and then subsequently incorporating these polymeric moieties into the metal halide 
+          framework. 
 
-  
+   11)One apparent practical application of perovskites containing polymerized units is the enhanced air- and moisture- stability provided by 
+         the protective polymer layers. 
+
+
 
   Examples:
                   1)5,5‴-bis(aminoethyl)-2,2′:5′,2″:5″,2‴-quaterthio-phene (AEQT) into a ⟨100⟩-oriented layered lead(II) halide perovskite framework. AEQT Pb X4
@@ -374,12 +379,33 @@ The examples and compariation:
                          The optical band gap values calculated using these data yield 4.84 eV for (APS)2PbCl4 and 3.25 eV for (APS)2PbI4, 
                          which are (if confirmed) among the highest reported band gap values for hybrid lead halide perovskites. 
 
+                   9)Polymerization of the diene functional group within [HOOC−CH=CH−CH=CH−CH2NH3]2-CdCl4 
+                          (6-amino 氨基-2,4-trans,trans-hexadienoic acid 己二烯酸 organic component)
+                           results in ordered formation of the 1,4-trans-polybutadiene 聚丁二烯. 
 
+                  10)dipping a film of the hydrogen bromide 溴化物 salt of poly(3-aminododecylthiophene) in an aqueous solution 水溶液 
+                           of lead(II) bromide, yielding a composite film that  exhibits characteristic exciton absorption from the [PbBr4]2- layers. 
+
+                  Although the poor crystallinity 结晶度 or partial ordering 偏序 is indicated, 
+                     indeed these materials self-assemble into the layered perovskite framework (or a closely aligned structural type). 
+
+                     The photoluminescence (PL) from the polyacetylene 聚乙炔 component of the hybrid structure is substantially improved 
+                         (PL quantum efficiencies of as high as 62% are reported) compared with the polyacetylene component on its own, 
+                     presumably 大概 because the interaction among polymer chains is reduced in the hybrid as a result of 由于 
+                         being sheathed 被包覆 in the lead(II) bromide layers. 
+
+                  11)addition of small amounts of polyethylenimine 聚乙烯亚胺 hydrogen iodide (PEI·HI) into the regular solution deposition procedure 
+                      for methylammonium lead iodide yields films that are stable up to 400h under ambient 周围的 conditions with a relative humidity 湿度 of ∼50%. 
+
+                          For this purpose, the authors first spin-coated 旋涂 a mixture of PbI2 and PEI·HI, followed by a coating of a
+                      CH3NH3 I layer with targeted compositions of (CH3NH3PbI3)1-x [(PEI)2PbI4]x (0 ≤ x ≤ 0.04). 
+                         Incorporation of a small amount of 2-D perovskite (PEI)2 Pb I4 (x=2%) improves 
+                         surface roughness and grain size (up to 1 μm), resulting in smooth and pore-free 无气孔 films. 
+                         Higher polymeric cation content of x = 4% gives films with reduced grain size, although their surface coverage is still better
+                     than the pristine 原始的 CH3NH3PbI3 films. 
 
   Observation of characteristic exciton features in the absorption spectrum (光谱) is a valuable confirmation for systems containing
   Ge(II), Sn(II), or Pb(II) halide perovskite layers (for the 100% fullerene-incorporated systems, these features are absent). 
-
-
 
 The explanation of Figues:
               Fig19:
@@ -389,8 +415,6 @@ The explanation of Figues:
               Fig20: 
                         the valence band (VB) 价带
                         conduction band (CB) 导带
-                     
-             
 
   Some words explaining:
                                 palette 调色板                                 conjugation 共轭
@@ -406,8 +430,12 @@ The explanation of Figues:
                                 disparate 不同的                              nonparabolicity 非分解性
                                 tether 拴绳                                       constitue 组成
                                 ligands  配体                                    apical 顶端的
-                           doubly protonated 双重质子化         intricacies 错综复杂
+                                doubly protonated 双重质子化         intricacies 错综复杂
+                            impart 给予                                irradiation 放射，射线
+                                diene 二烯烃
                             
+5. Intercalation 夹层 systems
+
 
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
