@@ -417,25 +417,98 @@ The explanation of Figues:
                         conduction band (CB) 导带
 
   Some words explaining:
-                                palette 调色板                                 conjugation 共轭
-                                prototypical 典型的                         tailored 定做的
-                                vary from A to B 在A到B间变化    intersect 与相交
-                                exciton 激子                                   quenching 猝灭
-                                conversion 转变                              spectral 光谱
-                                overlap 重叠                                   dipole 偶极子
-                                inversely 相反地                             proportional 成比例
-                                the six power 六次方                       exponential 指数的
-                                chromophore 发色团                        exciton band-EB
-                                quantum well (QW) 量子阱             analogy 类比
-                                disparate 不同的                              nonparabolicity 非分解性
-                                tether 拴绳                                       constitue 组成
-                                ligands  配体                                    apical 顶端的
-                                doubly protonated 双重质子化         intricacies 错综复杂
-                            impart 给予                                irradiation 放射，射线
-                                diene 二烯烃
+                                 palette 调色板                                 conjugation 共轭
+                                 prototypical 典型的                         tailored 定做的
+                                 vary from A to B 在A到B间变化    intersect 与相交
+                                 exciton 激子                                   quenching 猝灭
+                                 conversion 转变                              spectral 光谱
+                                 overlap 重叠                                   dipole 偶极子
+                                 inversely 相反地                             proportional 成比例
+                                 the six power 六次方                       exponential 指数的
+                                 chromophore 发色团                        exciton band-EB
+                                 quantum well (QW) 量子阱             analogy 类比
+                                 disparate 不同的                              nonparabolicity 非分解性
+                                 tether 拴绳                                       constitue 组成
+                                 ligands  配体                                    apical 顶端的
+                                 doubly protonated 双重质子化         intricacies 错综复杂
+                                 impart 给予                                irradiation 放射，射线
+                                 diene 二烯烃
                             
 5. Intercalation 夹层 systems
+  The arrangement of organic R-groups within the 2-D (R-NH3)2 B X4 structure is tail-to-tail, depending upon the degree of interdigitation, 
+  provide a van der Waals gallery 通道 or gap into which potentially functional molecules may intercalate 插入. 
 
+  However, the weak van der Waals type interaction between the proposed intercalation species and the organic cations 
+  made explicit structural characterization of the intercalated structure (e.g., by single crystal structure refinement 细化，提炼) problematic, 
+  due to the instability of the composite.
+
+ 1)The noncovalent fluoroaryl−aryl 氟芳基-芳基 interaction stabilized the intercalation system, which primarily arises from the relatively large 
+  but opposite in sign 符号 quadrupole 四极 moments 矩 for molecules based on C6H6 and C6F6 (or other analogous aromatic 
+  nonfluorinated 非氟化的  and fluorinated molecules). 
+
+ 2)The inorganic framework can be used to control whether molecules will intercalate or not into the hybrid structure. 
+
+ 3)Intercalation can also be combined with chemical reactivity. 
+
+ 4)In each case the chemisorption of iodine leads to significant expansion of the structure, 
+    particularly perpendicular 垂直 to the perovskite layers. 
+
+
+
+  Examples: 
+               1)-1 Films of (C6H5 C2H4 NH3)2 Sn I4(where C6H5 C2H4 NH3+ = phenethylammonium 苯乙基铵) 
+                         deposited from methanol
+                         yielded a crystal structure with
+                         interlayer separation (distance between the [SnI4]- perovskite sheets) of 16.3 Å. However, when these films were dipped into
+                         a solution containing hexafluorobenzene 六氟苯, the interlayer separation stretched to 20.6 Å 
+                        (no long axis structure was achieved if films were dipped into benzene 苯). 
+
+                  1)-2 Likewise, films of (C6F5C2H4NH3)2 Sn I4 (where C6F5 C2H4 NH3+ = pentafluorophenethylammonium 五氟苯乙基铵) 
+                         deposited from methanol 
+                         yielded interlayer separation of 17.5 Å, whereas these same films dipped in a solution containing benzene 苯
+                         yielded interlayer separation of 20.7 Å (no long axis structure was observed for films dipped into hexafluorobenzene 六氟苯).
+
+                 Little conclusion: In the examples 1)-1 and 1)-2, there is offset face-to-face 偏移面对面 interaction between the intercalated molecules 
+                                                     and the initial perovskite organic cations. This offset face-to-face interaction is structurally similar to that
+                                            observed in the 1:1 benzene-hexafluorobenzene complex, a prototypical fluoroaryl−aryl 氟芳基-芳基 compound. 
+                                                     Gently heating deintercalates the molecular species and leads to recovery of the parent layered perovskite. 
+
+                      2)While the tin(II) 锡-based systems show facile 温和的 and stable intercalation, (C6H5C2H4NH3)2 Cu Cl4 crystals were not
+                      successfully intercalated, presumably because of the less favorable orientation of the phenyl ring 苯环 in the copper(II) 铜
+                      chloride 氯化 structure for prospective interaction with fluorinated aromatic molecules.
+
+                  3) iodine-incorporated (R-NH3)2PbBr4, where R-NH3 comprises an organic cation with a terminal alkyne or alkene. 
+                      Using a lead(II) bromide framework, the parent layered perovskite undergoes topotactic transformation 
+                           in the presence of iodine vapor 蒸气, with iodine covalently bonding to the unsaturated hydrocarbons 碳氢化合物. 
+
+                  In the case of PEA, the reaction PEA ↔ PEA-I2 can be cycled, with addition/removal of two iodine atoms, 
+                         showing the reversibility of the chemisorption 化学吸附 process. 
+
+                     4)for BYA2 Pb Br4 the c-axis lattice parameter expands by 38% during the reaction BYA → BYA-I2 
+                     and iodine capacities in the nonporous perovskite frameworks are
+                     comparable to what can be achieved with more typical porous frameworks used for gas capture 
+                     (e.g., with gravimetric capacity of 0.43g I2 per gram for the BYA2 Pb Br4 perovskite). 
+
+                    the ability to conduct the iodine storage reaction depends on the inorganic framework--e.g., in PEA2 CuCl4, no reactivity 反应性 arises in an
+                    iodine-saturated vapor and the unsaturated hydrocarbon cations are therefore presumably held within 持有 an unsuitable
+                    configuration 构型，配置 for the intercalation/reaction to occur.
+
+conclusion: when the layered 2-D perovskite forms, the organic cations and iodide species can readily diffuse 弥散 through the van
+                  der Waals gap formed in the reacted material to reach the unreacted lead(II) iodide starting materials underneath 底部. 
+                  If the 3-D perovskite forms, then there is no van der Waals pathway and the diffusion of the reacting species proceeds much slower. 
+
+                  In summary, as can be seen from each of the above examples,
+                  the particular structural/chemical details of the organic cation within the perovskite 
+                  (as also templated 模板化 by the inorganic framework) may control the ability to intercalate molecules and
+                  the reactivity of these species with the underlying 根本的 parent compound, as well as facilitate molecular transport during the
+                  perovskite film formation.
+
+  Some words explaining:
+                                    tail 尾部                     intercalate 插入
+                               tailoring  裁剪             aliphatic 脂肪族的
+                               topotactic 拓扑的         unsaturated 不饱和的
+                               facilitate 促进              fabrication 制造
+                                    diffuse 弥散
 
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
