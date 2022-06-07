@@ -490,7 +490,7 @@ The explanation of Figues:
                      (e.g., with gravimetric capacity of 0.43g I2 per gram for the BYA2 Pb Br4 perovskite). 
 
                     the ability to conduct the iodine storage reaction depends on the inorganic framework--e.g., in PEA2 CuCl4, no reactivity 反应性 arises in an
-                    iodine-saturated vapor and the unsaturated hydrocarbon cations are therefore presumably held within 持有 an unsuitable
+                    iodine-saturated 饱和的 vapor and the unsaturated hydrocarbon cations are therefore presumably held within 持有 an unsuitable
                     configuration 构型，配置 for the intercalation/reaction to occur.
 
 conclusion: when the layered 2-D perovskite forms, the organic cations and iodide species can readily diffuse 弥散 through the van
@@ -508,8 +508,11 @@ conclusion: when the layered 2-D perovskite forms, the organic cations and iodid
                                tailoring  裁剪             aliphatic 脂肪族的
                                topotactic 拓扑的         unsaturated 不饱和的
                                facilitate 促进              fabrication 制造
-                                    diffuse 弥散
+                                diffuse 弥散
 
+6. Molecular Perovskites
+  
+ 
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
       Could I consider it as due to the distortion constraining the electrons' movement ? Because it is similar to the effect of electronegativities (电负性)
