@@ -511,8 +511,32 @@ conclusion: when the layered 2-D perovskite forms, the organic cations and iodid
                                 diffuse 弥散
 
 6. Molecular Perovskites
-  
- 
+  In these structures, the extended metal halide anion is held together with covalent/ionic bonding and 
+     the organic cations interact via ionic and hydrogen bonding (i.e., charge-assisted hydrogen bonding).
+
+  However, metals are not a requirement for the “B” site within the ABX3 perovskite structure. For example, C4H12N2 · NH4 Cl3 · H2O
+  Further, (C6H14N2) (NH4) [BF4]3.
+  One unusual feature of this ABX3 perovskite is that the +2 ionic charge on the “A” cation is larger than the +1 charge on the “B” cation, in contrast to
+     previously discussed examples of organic-based metal-containing perovskites, in which the charge ordering is reversed.
+
+  The hydrogen bonding plays a central role in establishing the global framework and covalent interactions play
+    little role in the perovskite structure assembly (of course they do play a role within the constituent molecules themselves). 
+
+  Of course, even larger [BX3]n‑ frameworks
+    and “A“ cations are possible when considering molecular complexes 络合物 for the “B” and “X” moieties. 
+
+
+
+Some words explaining:
+                               interspersed 散布
+                               insulating 绝缘的         noncentrosymmetric  非中心对称的
+                               chiral 手性的             deduce 推导
+                          discrepancy 差异         elucidating 阐明
+
+7. Exceptional Properties And Device Application
+
+
+
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
       Could I consider it as due to the distortion constraining the electrons' movement ? Because it is similar to the effect of electronegativities (电负性)
