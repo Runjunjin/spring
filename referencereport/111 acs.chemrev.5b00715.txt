@@ -534,7 +534,33 @@ Some words explaining:
                           discrepancy 差异         elucidating 阐明
 
 7. Exceptional Properties And Device Application
+  Current interest in organic−inorganic perovskites based on APb1-x Snx I3, where A is  a small organic cation such as methylammonium (甲铵) 
+         or formamidinium (甲脒)
 
+  The unprecedented jump in performance to >20% PCE (power conversion efficiency) levels in less than five years has been enabled 
+         by the unusual confluence of ideal semiconductor characteristics within a single material including:
+          (1) a tunable direct band gap, Eg, where the value of the Eg can be tailored within the ideal range for terrestrial (地面的) PV by the choice of 
+                 metal or halogen comprising the perovskite
+        (2) substantially higher optical absorption than conventional thin-film solar cell absorbers due to the specific orbital makeup of
+             the valence and conduction band edges (i.e., high joint density of states due to band edge states that have high p-orbital character)
+          (3) significant s-p antibonding coupling in the absorber leading to strongly dispersing conduction and valence bands 
+                 and relatively small effective masses for both electrons and holes. 
+        (4) dominant (优势的) point defects that are shallow (i.e., close to the band edge and therefore not effective as recombination centers) 
+         (5) intrinsically benign grain boundaries with respect to (关于) recombination 
+
+Some words explaining: 
+                               intense 强烈的             specific orbital 特定轨道
+                           high joint density of states 状态的高接合密度
+                           intrinsically 本质的，固有的               benign 良性的
+
+7.1 Magnetic and Dielectric Properties and Application
+
+  7.1.1 Magnetic Interactions in Hybrid Perovskites.
+           With incorporation of Cu(II), Fe(II), Cr(II), and Mn(II) as the metal, long range magnetic ordering 长程磁有序 
+              has been observed within the layered perovskite structures. 
+            Since there are no direct metal−metal contacts in the hybrid perovskites, magnetic superexchange interactions,
+              through the B-X-B linkages, usually determine the magnetism of these compounds. 
+            The primary factors influencing the magnetic exchange are the structural parameters, including the bond distances and angles. 
 
 
 Some Questions:
@@ -545,4 +571,11 @@ Some Questions:
       smaller band gap. But the structure would collapse while the size of organic cations became too large. So, my ideal is that could we use (even design) 
       a distorted or curly (卷曲的) organic cation to prevent the collaspes of the structure of Perovskites, and meanwhile, the organic cations could reinforce
       the conjugation and make the layers separate as much as possible? 
-3. 
+3. What does the 'high joint density of states due to band edge states that have high p-orbital character' mean? 
+    My Answer: The joint density of states determines the optical absorption difference. The atomic  p  states have 
+                        two more orbitals than the  s  states and exhibit less dispersion 色散. As a result, the density of states (DOS) in the lower CB of the 
+                        halide perovskites (whose conduction band (CB) is mainly composed of Pb (or Sn)  p  bands) is significantly higher than that of GaAs 
+                             whose CB is derived from the  dispersive  s  band (dilute 稀释  s  electron). 
+                           So the band edge states that have high p-orbital character leads to the high joint density of states. It's a conclusion with the comparation
+                           of p and s orbital. 
+4. 
