@@ -562,6 +562,18 @@ Some words explaining:
               through the B-X-B linkages, usually determine the magnetism of these compounds. 
             The primary factors influencing the magnetic exchange are the structural parameters, including the bond distances and angles. 
 
+            Briefly, the Goodenough−Kanamori rules predict a strong antiferromagnetism when the magnetic orbitals on adjacent B atoms are oriented at ∼180°
+               and B has partially filled d shells, 
+                  and a weak ferromagnetism arises when the magnetic orbitals are at ∼90°. 
+
+               The magnitude 大小 of this intralayer exchange interaction in A2CuX4 is determined by the orbital overlap between the magnetic
+                orbitals on two adjacent Cu atoms, which in turn strongly depends on the Jahn−Teller elongated X···Cu contacts. 
+                   And the magnetic exchange interaction J decreases rapidly with increasing X···Cu distance. 
+
+
+
+Some words explaining: 
+                               elongated 瘦长的
 
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
