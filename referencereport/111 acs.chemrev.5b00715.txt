@@ -566,23 +566,37 @@ Some words explaining:
                and B has partially filled d shells, 
                   and a weak ferromagnetism arises when the magnetic orbitals are at ∼90°. 
 
-               The magnitude 大小 of this intralayer exchange interaction in A2CuX4 is determined by the orbital overlap between the magnetic
+            The magnitude 大小 of this intralayer exchange interaction in A2CuX4 is determined by the orbital overlap between the magnetic
                 orbitals on two adjacent Cu atoms, which in turn strongly depends on the Jahn−Teller elongated X···Cu contacts. 
                    And the magnetic exchange interaction J decreases rapidly with increasing X···Cu distance. 
+
+            The linear superexchange of two magnetic ions with partially filled d orbitals is strongly antiferromagnetic. 
+
+
+           The interlayer coupling, J′, is strongly dependent on the interlayer X···X distance, the geometry of the B−X···X−B linkage, and the halide X- ion.
+                 The interlayer coupling increases rapidly with decreasing interlayer X···X distance. 
+
+          Structural symmetry also plays an important role in the magnetism of hybrid compounds.
+                   the “best” 2-D antiferromagnets-i.e. those with the smallest possible ratio of interlayer to intralayer coupling |J′/J|. 
+                   The rationale behind this designation follows from the fact that the magnetic 2-D character in the K2NiF4 structure mainly originates from the
+                 tetragonal symmetry 四方对称, which in the case of an antiferromagnetic alignment 排列 within the NiF2 sheets leads to a cancellation of the
+                 interaction between the adjacent layers. 
 
 
 
 Some words explaining: 
-                               elongated 瘦长的
+                               elongated 瘦长的              geometry 几何学
 
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
       Could I consider it as due to the distortion constraining the electrons' movement ? Because it is similar to the effect of electronegativities (电负性)
       on the band gap of the compounds, which shows that more different set of electronegativities leads the larger band gap of the compounds. 
+
 2. The band gap could be adjusted through changing the chain length of the organic cations and the degree of conjugation, and larger conjugation leads
       smaller band gap. But the structure would collapse while the size of organic cations became too large. So, my ideal is that could we use (even design) 
       a distorted or curly (卷曲的) organic cation to prevent the collaspes of the structure of Perovskites, and meanwhile, the organic cations could reinforce
-      the conjugation and make the layers separate as much as possible? 
+      the conjugation and make the layers separate as much as possible?
+ 
 3. What does the 'high joint density of states due to band edge states that have high p-orbital character' mean? 
     My Answer: The joint density of states determines the optical absorption difference. The atomic  p  states have 
                         two more orbitals than the  s  states and exhibit less dispersion 色散. As a result, the density of states (DOS) in the lower CB of the 
@@ -590,4 +604,5 @@ Some Questions:
                              whose CB is derived from the  dispersive  s  band (dilute 稀释  s  electron). 
                            So the band edge states that have high p-orbital character leads to the high joint density of states. It's a conclusion with the comparation
                            of p and s orbital. 
+
 4. 
