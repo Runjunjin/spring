@@ -612,10 +612,23 @@ Some words explaining:
           Replacement of Sn2+ and Pb2+ with first row transition metal cations such as Cu2+ has much more dramatic consequences to the band structures,
           since the 3d9 4s0 electronic configuration of Cu2+ is very different than that of the main group metal cations with lone pair electrons.
 
+  7.3.1. Quantum and Dielectric Confinement Effects and Excitonic Properties.
+            the feature of the layered hybrid perovskites based on germanium(II), tin(II), and lead(II) halide sheets 
+            is the sharp and intense exciton resonances in the optical absorption spectra.
 
+          The strength of the exciton features at room temperature arises because of the
+           quantum (i.e., dimensional reduction) and dielectric confinement 限制 effects. 
+             Dielectric mismatch 失配 between organic and inorganic layers leads to a dielectric confinement effect
+
+           Briefly, due to a much lower dielectric constant in the organic cation layer, the effective Coulomb
+            interaction between the electrons and holes in the inorganic well layer increases, which leads to a larger exciton binding energy. 
+
+             The relative contribution of the dielectric confinement effect depends on several factors, including the dielectric constants of the inorganic well 
+              and organic barrier layers, and the thicknesses of these layers. 
 
 Some words explaining: 
                                elongated 瘦长的              geometry 几何学
+                          confinement 限制
 
 Some Questions:
 1. This article mentions that the band gap would be increasing while the degree of the distortion of inorganic framework  becomes higher. 
