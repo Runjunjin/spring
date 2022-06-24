@@ -582,6 +582,36 @@ Some words explaining:
                  tetragonal symmetry 四方对称, which in the case of an antiferromagnetic alignment 排列 within the NiF2 sheets leads to a cancellation of the
                  interaction between the adjacent layers. 
 
+  7.2.1. Band Structures and Tunable Electrical Properties. 
+
+          with decreasing band gaps as the thickness of the perovskite layers is increased.
+
+          The states around the Fermi level are dominated by the inorganic framework. organic cations convey crystal structure effects. 
+
+          the band structures. organic cations convey indirect influence (see Section 3 for specific examples) on the electronic structure of
+            the (C4H9NH3)2(CH3NH3)n−1SnnI3n+1 (n = 1, 2, 3, etc.) and related materials through crystal structure effects 
+             (e.g.,dimensional reduction, induced tilting and deformations of the inorganic framework, cation size changes, and hydrogen bonding)
+
+  7.2.3. Pb- and Ge- based semiconductors
+
+           Pb−I bonds should be more ionic compared to Sn−I bonds, leading to the larger band gap of CH3NH3PbI3.
+
+           electronegativites for Pb(1.87), Sn (1.96), and Ge (2.01)
+
+           The larger band gap of the Geanalog can be tied to its substantially different quasi-3-D hexagonal structure, 
+            which contains GeI6 octahedra comprised of three short and three long Ge−I bonds (see below for further discussion, Figure 34) 
+            due to a second-order Jahn− Teller (SOJT) effect. 
+            the stereochemical activity of the Ge 4s2 electrons and the significant sp-hybridization of the
+            Ge and I orbitals yield the large band gap of 1.9 eV for CH3NH3GeI3.
+
+  7.2.4. Sb- and Bi-Based Semiconductors.
+           Hybrid perovskites based on trivalent Sb and Bi are also expected to exhibit semiconducting behavior and very similar band structures 
+           to those of divalent Sn- and Pb-based compounds.
+
+  7.2.5. Cu-Based Semiconductors.
+          Replacement of Sn2+ and Pb2+ with first row transition metal cations such as Cu2+ has much more dramatic consequences to the band structures,
+          since the 3d9 4s0 electronic configuration of Cu2+ is very different than that of the main group metal cations with lone pair electrons.
+
 
 
 Some words explaining: 
@@ -604,5 +634,3 @@ Some Questions:
                              whose CB is derived from the  dispersive  s  band (dilute 稀释  s  electron). 
                            So the band edge states that have high p-orbital character leads to the high joint density of states. It's a conclusion with the comparation
                            of p and s orbital. 
-
-4. 
