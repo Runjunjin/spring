@@ -1,0 +1,91 @@
+A review
+Halide Perovskite Photovoltaics: Background, Status, and Future Prospects
+
+2. FUNDAMENTAL STRUCTURE, WORKING MECHANISM, AND MAJOR MILESTONES 里程碑 OF PROGRESS
+2.1 Semiconductor Properties of Organic Lead Halide Perovskites
+
+  ionic crystals that exhibit semiconducting properties. 
+
+  the optical absorption wavelength of halide perovskites shows a wide variation with the kind and molar ratio of halides (I, Br, Cl) 
+
+  allows easy tuning of band gap and optical absorption by varying the halide ions (I, Br, Cl).
+  e.g. (CH3NH3 Pb (Brx I1‑x)3‑y Cly , 0 ≤ x ≤ 1); (HC(NH2)2 Pb Br1‑y Iy, y = 0-1.
+
+  mixed-halide perovskites can form good solid solutions as ionic crystals. 
+
+  CH3NH3PbI3, MA is CH3NH3, a standard perovskite absorber in PV cells
+
+  The valence band (VB) of MAPbI3 consists of approximately 70% of I 5p orbitals and 25% of Pb 6s2 orbitals (lone pair), 
+  while the conduction band (CB) consists of a mixture of Pb 6p and other orbitals. 
+  This structure is opposite to that of GaAs, in which the VB and CB are formed by p and s orbitals, respectively.
+
+  direct band gap of MA PbI3 and p−p electronic transitions from VB to CB, enabled by the Pb s orbital lone pair, contribute to
+   exceptionally high optical absorption coefficients
+
+  The unique defect properties of perovskite are attributed to strong Pb s−I p antibonding coupling, 
+  weak Pb p−I p coupling, and its ionic characteristics.
+  Weak antibonding coupling between Pb p and I p orbitals fixes the conduction band minimum (CBM) close to the Pb p orbital, 
+  and strong Pb s−I p antibonding coupling lowers the valence band maximum (VBM) close to the I p orbital. 
+
+  Therefore, for vacancies (defects) formed by removal of I−, the defect state lies between the Pb p atomic orbital level and the CBM, 
+  and for the Pb2+ vacancy, the defect state is formed between the I p and VBM levels. 
+  MAPbI3 generate trap states that either reside within the bands (VB or CB) or exist as shallow traps near the CB and VB.
+
+  defect-tolerant is reflected by the large carrier diffusion lengths. 
+
+  MAPbI3 has ambipolar carrier mobility, exhibiting similar effective mass values for both electrons and holes (0.23−0.29), 
+   which is a rare property endowed to 赋予 this ionic crystal
+
+  photogenerated carriers in MAPbI3 behave as free carriers, and these carriers can migrate in the perovskite absorber layer without
+  recombination for a long time (PL measurements show carrier lifetime of several hundreds of nanoseconds).
+
+It is also considered that high ionic density in halide perovskites helps to suppress recombination between electrons and holes 
+by a charge-screening effect 电荷屏蔽 against Coulombic interaction. 库仑相互作用
+
+In summary, the important factors that support high efficiency of perovskite solar cells are the following: 
+(1) a high optical absorption coefficient (105 cm -1) that allows the use of a thin film, 
+(2) a long carrier diffusion length and suppressed recombination (defect tolerance), and
+(3) a well-balanced 均衡的 charge transfer.
+
+One property related to the loss of efficiency that is limits the VOC and efficiency of PSCs is defect (trap) density in halide perovskite crystals
+Equally important are the losses caused by interfacial recombination that depend on the properties of other layers in the device.
+
+
+2.2. Working Principle
+
+electrons from the excited state (LUMO) of the perovskite are injected into the CB of TiO2 and transported through the layer to reach the FTO substrate. 
+From there it flows in an external circuit to the counter electrode (cathode), where it combines with oxidized species of electrolyte. 
+The reduced 还原的 species then diffuses to the vicinity of the oxidized 氧化的 perovskite to reduce it.
+
+electrons and holes can be transported through the perovskite film itself, without the need for any semiconducting scaffold 支架. 
+
+n-i-p and p-i-n solar cells, where perovskite works as an intrinsic 本征的 absorber sandwiched between two selective contacts (p and n).
+
+  In the n-i-p structure, TiO2 (compact or mesoporous layer) works as an n-type electron transport material (ETM),
+  perovskite functions as the intrinsic (i) absorber, 
+  and a HTM like spiro-OMeTAD (an organic molecule) works as the p-type contact
+  (FTO or ITO/TiO2/perovskite/spiro-OMeTAD/metal contact).
+
+  In a p-i-n type structure, which is otherwise known as an inverted 倒置的 architecture, 
+  perovskite is sandwiched between a p-type material (for example, PEDOT-PSS) at the bottom 
+  and an n-type layer (for example, PCBM) at the top 
+  (e.g., FTO or TiO2/PEDOT-PSS/perovskite/PCBM/metal contact). 
+
+the processes of carrier generation, separation, and transport are not as straightforward as they are in amorphous 非晶的 Si p-i-n solar cells.
+In p-i-n or n-i-p solar cells, the difference between quasi 准 Fermi levels at the selective contacts (i.e., between p-type and n-type layers) 
+ limits the open-circuit voltage.
+
+strong and coherent carrier−lattice coupling effect in perovskite, which was found to be important for both resonant and far-above-gap photoexcitation. 
+ultrafast lattice distortions play a key role in the initial processes associated with charge transport.
+
+2.3. Major Milestones of Progress
+
+/3043
+
+Some words:
+                    corroborate 证实           ambipolar 双极性的
+                    architectures 架构         vicinity 周围
+                 culminate 达到顶点       situ 原位
+
+Questions：
+1. 
