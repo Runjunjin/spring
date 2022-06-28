@@ -134,7 +134,7 @@ While such thick metal oxide layers in DSSCs predominantly exhibit bulk semicond
 an ALD-based thin SnO2 layer (15 nm) as the ETM in planar structure cells with mixed-cation perovskite absorber ((FAPbI3)0.85(MAPbBr3)0.15), 
 in which formamidinium (FA) was mixed with MA. 
 This cell achieved 18.4% PCE in the best conditions of film preparation (Figure 10). 
-Under the same conditions, an ALD-based TiO2 thin layer resulted in lower efficiency of the cell, while Voc values in both cases were same. 
+Under the same conditions, an 原子层沉积 ALD-based TiO2 thin layer resulted in lower efficiency of the cell, while Voc values in both cases were same. 
 ALD-TiO2-based cell was the photocurrent, which was as low as 5 mA/cm2, in comparison to >20 mA/cm2 obtained with ALD-SnO2
 
 the poor photocurrent in the case of TiO2 was due to band misalignment 未对准 between perovskite and TiO2, forming an energy barrier against electron transfer. 
@@ -148,14 +148,61 @@ the open-circuit voltage observed in PSCs, probably due to its dependence on the
 Such mismatches of values, if not large, can originate in the differences 
 between single bulk crystal and polycrystalline films, film samples in vacuum and in air, and pure and defect rich samples. 
 
-Voc of the device tends to be more influenced by the quality of the perovskite film and its heterojunction interfaces than by the bulk 块状,体积 properties of the ETM. 
+Voc of the device tends to be more influenced by the quality of the perovskite film and its heterojunction interfaces than by the bulk 块状,体积 
+properties of the ETM. 
 
 Defects/traps at the ETM/perovskite interface have been found to directly or indirectly influence the cell’s performance, especially J−V hysteresis.
 
 4. COMPOSITIONAL ENGINEERING OF PEROVSKITES
 
 4.1. Mixed Compositions
-/3046
+
+One major development that has stood out among others and contributed substantially to enhanced stability is
+incorporation of different cations in the A-site and different halides in the B-site.
+
+most popular in the recent years is (MA/FA/Cs)Pb(I/Br)3, which is commonly known as a triple-cation-based perovskite. 
+
+The quadruple-cation-based 四重阳离子 perovskite, including Rb (i.e., (MA/FA/Cs/Rb)Pb(I/Br)3) as the fourth cation, 
+has also gained interest due to its high cell efficiency and stability.
+Recent research has revealed that Rb ion would be expelled out to grain boundaries instead of  occupying the A-site
+
+4.1.1. A-Site Cations Mixture.
+
+Pb 6s 6p−I 5 p interactions lead to generation of the two bands: 
+the valence band maximum (VBM) is formed by antibonding (σ*) P b 6 s−I 5p interactions, 
+while the conduction band minimum (CBM) is formed by empty Pb 6p orbitals and/or by Pb 6p−I 5 p interactions.
+
+the cations in the A-site are considered not to contribute directly toward the band structure, 
+but they play a significant role in providing structural stability by charge compensation 补偿 within the PbI6 octahedra,
+largely based on their electrostatic (van der Waals) interactions with the inorganic cage.
+Nevertheless, any change in the size of cations in the A-site can either contract 收缩 or expand the crystal lattice, 
+thereby altering the optical properties of the perovskite.
+
+Smaller cations like Cs and Rb are expected to contract the lattice and thus increase the band gap, 
+while larger cations like formamidinium (FA+) are supposed to expand the lattice and decrease the Eg. 
+The article shows that contracting lattice caused the band gap increasing while expanding lattice caused the band gap decreasing. 
+Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap. (VBM Pb 6s-I 5p and CBM Pb 6p and/or Pb 6p-I 5p)
+
+Although based on the Eg value (1.47 eV), FAPbI3 is supposed to perform better than MAPbI3(Eg. 1.55) due to its extended absorption edge (800 nm). 
+With an extended absorption edge, FAPbI3 cells show higher photocurrent (Jsc), 
+but their efficiency is mainly limited by poor FF, which is possibly related to phase instability of FAPbI3. 
+
+FAPbI3 readily crystallizes into a photo-inactive phase (δ-FAPbI3) at room temperature (RT), 
+and this phase is transformed to a photo-active black phase (α-FAPbI3) at temperatures between 125 and 165 °C.
+This α-FAPbI3, formed at high temperatures, slowly transforms into δ-FAPbI3when kept at RT. 
+
+a trigonal 三角的 α-FAPbI3 phase is stabilized at RT with a composition of 20 mol% of MA in MAxFA1‑xPbI3 (x = 0.2). 
+although the best efficiency is reported (∼18.3%) for FA-based perovskites having a composition of MA0.4FA0.6PbI3. 
+MA+, which has almost 10 times greater dipole moment than FA+, is incorporated, 
+it exhibits stronger interactions with the [PbI6]4- octahedra 
+and thus stabilizes the 3D arrangement of α-FAPbI3 with little lattice shrinkage or changes in the optical properties.
+
+Although the efficiency of FAPbI3 cells falls behind that of the MAPbI3 cells, 
+FAPbI3 has a significantly greater thermal stability compared to MAPbI3.
+It is proposed that FA has a stronger interaction with iodide and, therefore, does not allow easy breaking of the network. 
+It is also explained that FA, being less acidic than MA, does not undergo deprotonation to furnish 提供 HI (the first step of degradation 降解) as easily as MA.
+
+/3048
 
 Some words:
                     corroborate 证实           ambipolar 双极性的
@@ -163,7 +210,18 @@ Some words:
                  culminate 达到顶点       situ 原位
                  pertaining to 关于          flat and dense 平而密
                  anomalous 异常的         dye-sensitized solar cells (DSSCs) 染料敏化太阳能电池
-               work function 功函数
+               work function 功函数      exert 类似make的作用, exert an influence on
+               empirical index 经验指数
 
 Questions：
-1. 
+1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
+    We knew VBM consisted of Pb 6s-I 5p and CBM consisted of Pb 6p and/or Pb 6p-I 5p. So what the mechanism of that?
+  My answers:  The decrease of  Pb−I bond distance caused the orbital overlap between Pb and I, 
+                        so the CBM would be expanded and close to VBM which resulted in the band gap decreasing 
+                        because the energy band formed by orbital overlap. The orbital overlap increasing leads to the inner shell orbital overlap, 
+                        and the energy level splitting was increased, which further leads to VB shift down 
+                        (the increased number of electrons less than the increased number of orbits, e.g. two s-orbit overlap with 4 electrons, 
+                         there are 4 splitted orbits, considering the spin 自旋 of electron there would be two orbits became the CB 
+                         while the bottom two orbits became the VB, but the initial 4 orbits origined from the original VB)
+
+2. 
