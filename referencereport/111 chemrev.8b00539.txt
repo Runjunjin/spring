@@ -80,12 +80,90 @@ ultrafast lattice distortions play a key role in the initial processes associate
 
 2.3. Major Milestones of Progress
 
-/3043
+flat and dense perovskite film with large grains and high crystallinity is a prerequisite to high efficiency.
+a good-quality perovskite film (pinhole-free, large grains) is the basic requirement for a device to perform well.
+
+Almost all parameters involved in the solution processes：
+(i) precursor solvent,
+(ii) nature, concentration, and ratios of different precursor ions, 
+(iii) nature and concentration of additives (besides the active ions), 
+(iv) drying temperature, time, and environment(humidity level, controlled solvent or antisolvent vapor exposure), etc.-influence the morphology of the films.
+
+anomalous J−V hysteresis and the important roles of different interfaces in device performance.
+
+3. METAL OXIDE-BASED ELECTRON TRANSPORT LAYERS IN PEROVSKITE SOLAR CELLS
+
+Metal oxide semiconductors, typically TiO2
+mesoporous TiO2 介孔   n-Type
+
+dual functions: one is selective electron extraction as ETM 
+and other is provision 提供 of a large surface scaffold 支撑 to accommodate 容纳 perovskite crystals. 
+
+nonporous 无孔 flat ETM film, a dense TiO2 film, or even organic materials such as PCBM
+because of the long diffusion length of free carriers (>1 μm) in polycrystalline perovskite films
+
+ETM is regularly coated on transparent conductive substrates such as FTO and ITO,
+
+The existence of a compact layer 致密层 (CL) is essential to ensure selective electron extraction 
+and hole-blocking 阻挡 function at the surface of the negative electrode.
+
+mesoporous Al2O3 (which is insulator) layer on the TiO2 CL in a solid-state perovskite device 
+produced higher efficiency and Voc compared to those observed with a meso-TiO2-based cell used as reference
+
+mesoporous Al2O3 layer‘s role is to 
+accommodate perovskite into its porous network so that carriers are conveyed to the substrate (electrode) through the infiltrated 渗透的 perovskite.
+This is, in fact, enabled by the long distance diffusivity of carriers in perovskite.
+
+However, much less work was done on the use of Al2O3 because devices with Al2O3 scaffolds often showed low fill factors 填充系数 (FFs), 
+attributed to high impedance 阻抗 of the Al2O3 network
+But, the ability to use Al2O3 provided the first evidence that perovskite is capable of transporting carriers over long distances without significant recombination.
+
+SnO2 and ZnO are also used as ETMs
+
+the energy level of the CB significantly influences the Voc and short-circuit photocurrent (Jsc) of the cells. 
+Voc in DSSCs is determined 
+by the energy gap between the CB level of the semiconductor 
+and the redox 氧化还原 potential 电位 of the iodide-based redox agent 氧化还原剂 in the electrolyte (HTM), SnO2, 
+having a deep CB level (large work function), always results in low Voc.
+But, this is not the case for PSCs.
+
+Perovskite solar cells using SnO2 and ZnO exhibit Voc and Jsc comparable 相当 with those of TiO2-based cells.
+The thin metal oxide semiconduct film is current-rectifying 整流 layers with high electron selectivity (hole-blocking ability) in PSCs, 
+While such thick metal oxide layers in DSSCs predominantly exhibit bulk semiconductor properties. 
+
+an ALD-based thin SnO2 layer (15 nm) as the ETM in planar structure cells with mixed-cation perovskite absorber ((FAPbI3)0.85(MAPbBr3)0.15), 
+in which formamidinium (FA) was mixed with MA. 
+This cell achieved 18.4% PCE in the best conditions of film preparation (Figure 10). 
+Under the same conditions, an ALD-based TiO2 thin layer resulted in lower efficiency of the cell, while Voc values in both cases were same. 
+ALD-TiO2-based cell was the photocurrent, which was as low as 5 mA/cm2, in comparison to >20 mA/cm2 obtained with ALD-SnO2
+
+the poor photocurrent in the case of TiO2 was due to band misalignment 未对准 between perovskite and TiO2, forming an energy barrier against electron transfer. 
+the greater importance of thin-film properties over bulk properties of metal oxide ETMs in PSCs.
+
+Nb2O5, WO3, Nb-doped TiO2, Mg-doped ZnO, MgO/TiO2. 
+Fig12
+
+For metal oxide materials, the band gap energy and CB level do not necessarily show good agreement with 
+the open-circuit voltage observed in PSCs, probably due to its dependence on the form of material subjected to 受到 measurement. 
+Such mismatches of values, if not large, can originate in the differences 
+between single bulk crystal and polycrystalline films, film samples in vacuum and in air, and pure and defect rich samples. 
+
+Voc of the device tends to be more influenced by the quality of the perovskite film and its heterojunction interfaces than by the bulk 块状,体积 properties of the ETM. 
+
+Defects/traps at the ETM/perovskite interface have been found to directly or indirectly influence the cell’s performance, especially J−V hysteresis.
+
+4. COMPOSITIONAL ENGINEERING OF PEROVSKITES
+
+4.1. Mixed Compositions
+/3046
 
 Some words:
                     corroborate 证实           ambipolar 双极性的
                     architectures 架构         vicinity 周围
                  culminate 达到顶点       situ 原位
+                 pertaining to 关于          flat and dense 平而密
+                 anomalous 异常的         dye-sensitized solar cells (DSSCs) 染料敏化太阳能电池
+               work function 功函数
 
 Questions：
 1. 
