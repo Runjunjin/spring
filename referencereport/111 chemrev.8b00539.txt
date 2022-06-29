@@ -216,8 +216,18 @@ Moisture stability is improved by Cs inclusion in the perovskite.
 
 Small and large tolerance factors respectively for CsPbI3 (τ = 0.85) and FAPbI3 (τ = 0.98) stabilize the perovskites 
 in orthorhombic 正交 (yellow) and hexagonal structures
+the effective tolerance factor can be tuned to form a cubic structure (0.9 ≤ τ ≤ 1) by alloying CsPbI3 with FAPbI3 (FAxCs1‑xPbI3) over a range of proportions 比例.
 
-/3049
+FAPbI3 perovskites including either Rb or K have demonstrated improvements in the PV performance of the cells.
+
+a small amount (x ≤ 0.05) of Rb+ can be included in FAPbI3, and higher concentrations lead to phase segregation. 
+Devices based on Rb-mixed FAPbI3(i.e., Rb0.05 FA0.95 PbI3) outperform those based on FAPbI3, 
+and more importantly, the stability of this Rb0.05FA0.95PbI3 film, as shown in Figure 15, 
+against humid conditions is superior to that of Cs0.05 FA0.95 PbI3.
+
+4.1.2. X-Site Anions Mixture
+
+/3050
 
 Some words:
                     corroborate 证实           ambipolar 双极性的
@@ -227,7 +237,9 @@ Some words:
                  anomalous 异常的         dye-sensitized solar cells (DSSCs) 染料敏化太阳能电池
                work function 功函数      exert 类似make的作用, exert an influence on
                empirical index 经验指数  pristine  原始的
-               unencapsulated 未密封的
+               unencapsulated 未密封的  discrepancy 差异
+               deteriorated 恶化
+
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
