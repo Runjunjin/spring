@@ -202,7 +202,22 @@ FAPbI3 has a significantly greater thermal stability compared to MAPbI3.
 It is proposed that FA has a stronger interaction with iodide and, therefore, does not allow easy breaking of the network. 
 It is also explained that FA, being less acidic than MA, does not undergo deprotonation to furnish 提供 HI (the first step of degradation 降解) as easily as MA.
 
-/3048
+an increased tolerance factor and a stronger interaction of FA with iodide ions, results in greater thermal stability of the FAxMA1‑xPbI3perovskites. 
+FA is, unfortunately, more hygroscopic than MA.
+
+Incorporation of the inorganic cation Cs became an alternate choice.
+CsxMA1‑xPbI3 (x = 0.09) shows better performance (18.1%) and thermal stability (no color change when heated at 120 °C for 3 h) 
+than pristine MAPbI3 (15.8%), while a higher concentration of Cs shows surprisingly worse stability. 
+The unencapsulated Cs0.09 MA0.91 PbI3 cell retains above 80% of its initial performance, 
+whereas the performance of the pure MAPbI3 cell deteriorates to less than 40% of its initial performance after heat treatment at 85 °C for 60 min. 
+Regular MAPbI3 degrades completely when heated at 200 °C for 10 min, changing its absorption edge to that of PbI2, 
+while the absorption spectrum of Cs0.05 MA0.95 PbI3 remains almost unchanged under the same treatment conditions.
+Moisture stability is improved by Cs inclusion in the perovskite.
+
+Small and large tolerance factors respectively for CsPbI3 (τ = 0.85) and FAPbI3 (τ = 0.98) stabilize the perovskites 
+in orthorhombic 正交 (yellow) and hexagonal structures
+
+/3049
 
 Some words:
                     corroborate 证实           ambipolar 双极性的
@@ -211,7 +226,8 @@ Some words:
                  pertaining to 关于          flat and dense 平而密
                  anomalous 异常的         dye-sensitized solar cells (DSSCs) 染料敏化太阳能电池
                work function 功函数      exert 类似make的作用, exert an influence on
-               empirical index 经验指数
+               empirical index 经验指数  pristine  原始的
+               unencapsulated 未密封的
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
