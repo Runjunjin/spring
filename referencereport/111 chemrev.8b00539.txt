@@ -153,6 +153,15 @@ properties of the ETM.
 
 Defects/traps at the ETM/perovskite interface have been found to directly or indirectly influence the cell’s performance, especially J−V hysteresis.
 
+Some words:
+                    corroborate 证实           ambipolar 双极性的
+                    architectures 架构         vicinity 周围
+                 culminate 达到顶点       situ 原位
+                 pertaining to 关于          flat and dense 平而密
+                 anomalous 异常的         dye-sensitized solar cells (DSSCs) 染料敏化太阳能电池
+               work function 功函数      exert 类似make的作用, exert an influence on
+               empirical index 经验指数  pristine  原始的
+
 4. COMPOSITIONAL ENGINEERING OF PEROVSKITES
 
 4.1. Mixed Compositions
@@ -227,19 +236,147 @@ against humid conditions is superior to that of Cs0.05 FA0.95 PbI3.
 
 4.1.2. X-Site Anions Mixture
 
-/3050
+Distinct 明显的 effects of Cl present in the precursor solution on the quality, morphology, and crystallinity of the perovskite films 
+have been observed. 
+PbCl2 as the source of Pb- or Cl-based additives, such as HCl, NH4Cl, and MACl, 
+improves the film quality by slowing down the crystallization, thus resulting in more uniform and pinhole-free 无孔的 films. 
+Besides, the longer diffusion length of electrons in MAPbI3‑xClx than in MAPbI3 films 
+has been credited with improving the performance of the cells.
+But as the carrier lifetime or diffusion length is dependent on the morphology (grain size and grain boundaries) of polycrystalline films, 
+it is not easy to separate the effect of Cl from effects of morphology on the electronic properties.
 
-Some words:
-                    corroborate 证实           ambipolar 双极性的
-                    architectures 架构         vicinity 周围
-                 culminate 达到顶点       situ 原位
-                 pertaining to 关于          flat and dense 平而密
-                 anomalous 异常的         dye-sensitized solar cells (DSSCs) 染料敏化太阳能电池
-               work function 功函数      exert 类似make的作用, exert an influence on
-               empirical index 经验指数  pristine  原始的
+Unlike Cl, the presence and effect of Br in the X-site in mixed Br/I perovskites 
+have been observed clearly and directly.
+Incorporation of smaller Br− ions in MAPbI3‑xBrx increases the band gap of the mixed-halide perovskite, 
+and this increment in Eg follows a quadratic 二次的 relation with the concentration of Br (Eg(x)=1.57+0.39x+0.33x^2)
+Although the PCEs of cells with higher Br contents (>20%) were lower, the cells displayed better resistance against high humidity (RH = 55%), 
+which was correlated with a tetragonal-to-pseudocubic 四方到类立方 structural transition (at x = 0.13). 
+
+FAPbI3‑xBrx is amorphous. 
+However, like in the case of MAPbI3‑xBrx, photoinduced phase segregation was also observed in FAPbI3‑xBrx.
+
+The smaller difference in ionic radii (RI− = 2.07 Å, RBr− = 1.84 Å, RCl− = 1.67 Å) 
+and the higher degree of ionic character
+between Br and Cl are responsible for 
+the easier miscibility of Br/Cl than I/Cl.
+
+4.1.3. Both Cations and Anions Mixture
+
+(FA/MA)Pb(I/Br)
+Based on results of enhanced VOC by Br inclusion 
+and increased structural stability in the FA-MA mix. 
+
+Incorporation of cations with smaller effective radius (MA+) into FAPbI3 can
+adjust the Goldschmidt tolerance factor close to 1 by
+contracting the lattice (Figure 17a) 
+or relaxing the crystal strain of FA-based perovskites (Figure 17b) 
+to stabilize the cubic phase of the perovskite.
+
+MA, with a smaller effective size than FA, worked here as a crystallizer for the black phase of FAPbI3, 
+a slight amount of the photo-inactive yellow phase always remained in the resultant perovskite, 
+which was considered to be detrimental for long-term stability.
+the inclusion of Cs+, which is significantly smaller than MA+, as a third cation in mixed FA-MA and I-Br perovskites. 
+Cs prevented formation of the yellow phase completely and the improved morphology of the perovskite film through further grain growth
+(Cs/FA/MA/Pb/I/Br) demonstrated an incredibly long life (1000 h)
+
+The two identifiable attributes of these triple-cation-based perovskite films are 
+phase purity (no δ-phase formation) and uniform grains, which are apparently responsible for the enhanced PV performance of the cells. 
+ Inclusion of Cs into the FA-MA-based perovskite 
+completely prevents formation of the δ-phase, 
+improving the phase purity of the resultant perovskite film. 
+
+the presence of the intermediates/colloids 中间体/胶体 (not well investigated yet) in the
+precursor solution are probably the keys to formation of good-quality perovskite films. 
+
+a quadruple 四重 -cation mixed perovskite that included Rb as the fourth cation.
+In comparison to Cs/FA/MA triple-cation devices,
+Rb-based quadruple-cation perovskite cells show slightly higher FF, reduced hysteresis 滞后, and greater photostability, 
+which were essentially attributed to reduced recombination and less defects.
+Rb addition leads to increased charge carrier mobility but has only a marginal effect on the trap landscape of the perovskite layer. 
+Cs incorporation significantly reduces the number and the depth of trap states in the perovskite crystals, 
+but it has barely any effect on the charge carrier mobility. 
+
+Upon combining Cs and Rb in quadruple-cation (Rb-Cs-FA-MA) perovskite mixtures, 
+the highest mobility and the lowest trap density were observed, 
+which subsequently resulted in solar cells with the highest stabilized power output. 
+
+Cs can get incorporated into the crystal of (FA/MA)Pb(I/Br)3 up to 15 mol%, 
+while Rb does not occupy any crystal sites. 
+Instead, it segregates as rubidium-rich phases RbPbI3 mixed cesium−rubidium lead iodides, mixture of rubidium halides,
+various rubidium lead bromides, depending on the exact composition 
+a preferable accumulation of Rb+ species at the TiO2interface, while Cs+ is very homogeneously distributed in the film.
+
+enrichment of Rb cations near the electron transport layer interface is possibly related to
+a reduction of surface recombination in the vicinity of the electron transporting layer, 
+which in turn affects device hysteresis and power output stability.
+
+K inclusion in a variety of perovskite compositions has been found to eliminate hysteresis in the J−V curves of the cells. 
+Among all alkali metal ions (Li+, Na+, K+, Rb+, Cs+), K+ works best for reducing/eliminating hysteresis.
+K+ incorporation hinders formation of photoinactive δ-FAPbI3 almost completely,
+resulting in enhanced lifetime of charge carriers, reduced recombination, 
+and shift of conduction band edge toward better energy alignment with SnO2 ETL.
+
+Summary of Key Effects of Cs, Rb, and K Inclusion into (FA/MA)Pb(I/Br)3 Mixed Perovskites
+
+role and effects of                                                                      Cs role and effects of Rb                                                                 Role and effects of K
+•gets incorporated into lattice at A-site                  •most likely not incorporated into lattice atA-site                          •most likely not incorporated into lattice A-site
+•helps in formation of cubic perovskite phase
+(complete removal of yellow phase)                      •segregation preferably near to the ETLand at grain boundaries  •shift of XRD peaks/lattice expansion 
+                                                                                                                                                                                                        (contrary to whatexpected if it was incorporated)
+•enhanced stability                                                    •enhanced stability                                                                                •reduction/elimination of hysteresis
+•reduces trap states                                                  •enhancement in charge mobility                                                        •hinders formation of δ-FAPbI3
+•resists phase segregation in 
+mixed I/Br perovskites
+(improves photostability)                                          •no effect on trap landscape                                                       •grain boundary passivation
+
+In all three cases, Cs, Rb, and K, the improvement in PCE is basically 
+due to higher Voc and better FF, 
+which is a result of traps-passivation. 
+
+inclusion of Cs and/or Rb in (FA/MA)Pb(I/Br)3 films increases 
+the amount of unreacted FAI on the surface of the films (Figure 24), 
+which is indeed responsible for an increase in Voc in the devices with Cs, or Rb doped FAMA perovskite.
+
+some words:
                unencapsulated 未密封的  discrepancy 差异
-               deteriorated 恶化
+               deteriorated 恶化             uniform and dense 均匀且致密的
+               miscibility 混溶性            simultaneous 同时的
+               detrimental 有害的            crystallizer 结晶器
+               attributes 属性                  retard 阻碍                 
+               recipe 方法，处方            depth profile 深度剖面
+               vicinity 附近
 
+4.2. Mixed Dimensions
+
+2D perovskites are more stable to heat and humidity 
+but they lag behind the 3D perovskites in terms of performance because of their narrow absorption band in addition to poor electron transport properties.
+
+However,
+mixing a small amount of 2D perovskite to 3D perovskite structures (2D/3D)
+have been found to work with higher efficiency and improved long-term stability.
+
+incorporation of 0.8 mol% of ethylenediammonium 乙二胺 iodide (EDAI) 
+(which forms a 2D perovskite structure when mixed alone with PbI2) 
+into 3D MAPbI3 structure improves the PCE by reducing recombination. 
+
+a combination of properties of enhanced stability from 2D perovskite 
+and excellent optoelectronic properties from 3D perovskite 
+has been observed in a mixed-dimensionality and mixed-compositional (MDMC) lead iodide perovskite 
+based on [CF3CH2NH2]2 (FA0.825 MA0.15 Cs0.025)n‑1 Pbn(I0.85Br0.15)3n+1 series (n = 1−∞, C F3CH2NH2-TFEA)
+The hydrophobic nature of the trifluoroethylamine chain 
+and the multilayered structure of the mixed perovskite (Figure 26)
+result in enhanced moisture resistance. 
+
+5. STABILITY OF PEROVSKITE SOLAR CELLS
+
+5.1. Stability Issues with Perovskites
+
+/3055
+
+some words:
+                   hydrophobic 疏水的              trifluoroethylamine 三氟乙胺CF3CH2NH2 (TFEA)
+                   multidimension multicomposition 多维复合 (MDMC)
+                   encapsulation 封装                aminovaleric acid iodide (AVAI) 氨基戊碘酸
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
