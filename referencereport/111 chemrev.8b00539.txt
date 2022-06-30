@@ -367,16 +367,97 @@ The hydrophobic nature of the trifluoroethylamine chain
 and the multilayered structure of the mixed perovskite (Figure 26)
 result in enhanced moisture resistance. 
 
-5. STABILITY OF PEROVSKITE SOLAR CELLS
-
-5.1. Stability Issues with Perovskites
-
-/3055
-
 some words:
                    hydrophobic 疏水的              trifluoroethylamine 三氟乙胺CF3CH2NH2 (TFEA)
                    multidimension multicomposition 多维复合 (MDMC)
                    encapsulation 封装                aminovaleric acid iodide (AVAI) 氨基戊碘酸
+                   deterioration 恶化               degradation 降解
+
+5. STABILITY OF PEROVSKITE SOLAR CELLS
+
+5.1. Stability Issues with Perovskites
+
+5.1.1. Structural/Intrinsic Stability
+
+Structural stability of perovskite compounds 
+can be primarily judged by the Goldschmidt tolerance factor (τ), 
+which is an empirical index widely used to predict formation of different crystal structures of ABX3.
+
+When τ is in the rage of 0.8 < τ < 1, ideal cubic perovskite structures or distorted perovskite structures with tilted octahedra are favored.
+0.9 < τ < 1 favors a cubic perovskite structure while for 0.8 < τ < 0. 9, a distorted perovskite structure is formed. 
+Values of τ < 0.8 and τ > 1 diminish the possibility of formation of perovskite structures.
+
+FAPbI3 is prone to formation of a hexagonal δ-phase which is photoinactive. 
+CsPbI3 with τ ≈ 0.8, is at the edge of lower boundary for perovskite structures, 
+and it normally crystallizes into a δ-phase. 
+MAPbI3 with τ ≈ 0.9 is close to the middle of the perovskite zone and forms a black photoactive perovskite phase.
+
+mixing of different cations and anions improves structural stability of perovskites, 
+essentially by adjusting the value of τ close to middle of perovskite zone.(0.9) 
+
+According to the mixture rule, for (Ax A′1‑x)B(Xy X′1‑y)3, 
+rA(eff), and rX(eff) can be calculated by using the following equations:
+rA(eff)=xrA+(1-x)rA' ; rX(eff)=yrX+(1-y)rX'
+The effective tolerance factor (τeff) is calculated by using the values of rA(eff) and rX(eff) 
+
+for such systems of mixed perovskites, 
+formation of secondary non-perovskite phases above certain concentration
+becomes another important factor that influences the stability.
+In other words, τeff close to 0.9 is not a sufficient condition for predicting structural stability of mixed perovskites. 
+Nonetheless, it provides guidance for selecting the ions or combination of ions.
+phase purity also plays a significant role in intrinsic long-term stability of the mixed perovskites.
+
+MAPbX3 (X = Cl, Br, I) decomposes to PbX2(s), MA(g), and HX(g). 
+Energy of formation of these component products of degradation process
+confirms that MAPbI3 and MAPbBr3 are thermodynamically more stable than MAPbCl3
+
+the possibilities that such ion migration can affect long-term stability of PSCs have increased tremendously. 
+In any ionic solid, migration of ions must be mediated 介导 by defects in the solid
+The rate of migration of ions in such solids
+depends on the available interstitial space, Schottky defects
+(cation or anion vacancies), ion jumping distance, and size and charge of the ions. 
+Smaller ions and ions with smaller charge tend to migrate faster than larger ions and ions with greater charge.
+It is believed that ions in perovskites essentially migrate through the cation and anion defects (i.e., MA+ and I− vacancies). 
+How easily an ion migrates in perovskite film can be assessed by its activation energy of migration.
+the calculation of activation energies of migration for I−, Pb2+, MA+, or FA+, suggests iodide 碘化物(如PbI2) to be most easily migrating ion. 
+Increasing accumulation of MA+ near the cathode with time of biasing (the poling field is 1.6 V μm−1) confirms migration of MA+ ions.
+
+In polycrystalline films, grain boundaries are considered as preferred regions of ion migration than within the grains. 
+Therefore, it is possible to minimize ion migration in perovskite films by reducing the number of grain boundaries. 
+However, reducing the grain boundary volume might not eliminate the process of ion migration because, 
+as observed in several studies, halides also can migrate in single crystals of MAPbI3 and MAPbBr3. 
+
+Channels other than grain boundaries also exist.
+
+DFT calculation has suggested increase in ion migration barrier energy by alkali metals (Rb+, K+, Na+, and Li+) occupying interstitial sites of perovskite.
+
+thermal strain generated during the annealing process of perovskite films 
+accelerates degradation of the perovskite.
+Such strain in the polycrystalline MAPbI3 film due to difference in thermal
+expansion of the substrate (ITO glass) and perovskite (MAPbI3). 
+The films with large strain (convex 凸面 bending) degraded faster
+while the film with least strain (concave 凹面 bending) did not degrade at all. 
+, which suggests that the thermal expansion of substrate would be larger than that of perovskite. 
+
+selection of a low-temperature processing method or a polymeric substrate with higher coefficient of thermal expansion 
+(as long as the device operation is below the annealing temperature)
+can be effective in reducing stress and improving the inherent 固有的 moisture and thermal stability of perovskite films.
+
+ferroelasticity 铁弹性 (spontaneous 自发的 phase transition from cubic to tetragonal under applied stress) in MAPbI3 perovskites
+Such stress-induced phase transition, which generates intragrain 晶粒内的 strain, can also be an important intrinsic source of instability.
+
+The other significant source of instability can be the crystal orientation
+
+5.1.2. External/Environmental Stability.
+
+/3060
+
+some words:
+                  diminish 减少              zone 区域
+                  mediate 调解               available interstitial space 可用间隙空间
+                  thread 路线                 cathode 阴极       anode 阳极
+                  bend 弯曲                   intact 完整的
+                  corrode 侵蚀
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
