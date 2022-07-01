@@ -596,7 +596,20 @@ CsPbX3 and CsSnX3 (X = Cl, Br, I)
 The imposing challenge with CsPbI3 is stabilization of its black photoactive phase (α-CsPbI3) at RT 
 because CsPbI3 preferably crystallizes in a yellow phase (δ-CsPbI3) at RT while the black phase is only stable at temperature above 310 °C
 
-/3066
+to stabilize α-CsPbI3 could by
+1)increasing the tolerance factor, which can be accomplished 
+by partial substitution of either Cs+ (r = 167 pm) with bigger cations like MA+ (r = 217 pm) and FA+ (r = 253 pm) in the A-site 
+or I− ions (r = 220 pm) with smaller anions like Br− (r = 196 pm) and Cl− (r = 181 pm) in the X-site. 
+
+2)and reducing the crystal dimensions (size-controlled stabilization)
+Hence, suitable foreign dopants or even additives in the precursors of CsPbI3 
+that can restrict the dimensions of crystals to few nanometers (nanocrystals) can effectively stabilize the cubic CsPbI3.
+
+/3067
+
+some words:
+                    orthorhombic 斜方的               implementation 执行
+                 appreciable 可观的
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
