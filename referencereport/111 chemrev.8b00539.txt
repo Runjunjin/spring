@@ -632,8 +632,88 @@ some words:
                  charge neutrality 电荷中性         phenyltrimethylammonium bromide (PTABr) 苯基三甲基溴化铵
 
 6.2. Cesium−Lead Mixed Halide Perovskites
-/3069
 
+CsPbI3‑xBrx
+The band gap of CsPbI3‑xBrx can be precisely controlled by I/Br ratio; 
+Eg increasing with more Br and decreasing with more I in CsPbI3‑xBrx.
+
+Rb1‑xCsxPbI3
+can stabilize perovskite black phase and
+provide other beneficial effects from bandgap engineering.
+
+Cs2TiBr6
+
+it can be anticipated that more interesting perovskite structures with different metals in the B-site of CsPbX3 are yet to be discovered. 
+
+Cs2TiI6, R b2TiI6, K2TiI6, and In2TiI6
+
+7. LEAD-FREE AND LOW-LEAD PEROVSKITES
+7.1. Lead-Free Perovskite Materials
+Group 14 elements like Sn2+ and Ge2+,
+alkaline earth metals like Be2+, Mg2+, Ca2+, Sr2+, and Ba2+,
+transition metals such as V2+, Mn2+, Fe2+, Co2+, Ni2+, Pd2+, Cu2+, Zn2+, Cd2+, and Hg2+, 
+lanthanides like Eu2+, Tm2+, and Yb2+, 
+and p-block elements like Ga2+ and In2+ can be considered for alternative Pb-free perovskites.
+
+However, considering stability of formed perovskite structure and PV properties, 
+the candidates which look promising are cations Sn2+, Ge2+, Mg2+, Mn2+, Ni2+, and Co2+.
+
+some words:
+                   insidious hazard 阴险的的危险
+                   interfere 干扰                          topsoil 表土
+
+7.1.1. Tin (Sn)-Based Perovskites. 
+
+CsSnI3‑xBrx
+based Sn perovskite material because of low bandgap (∼1.3
+eV) and exciton binding energies (∼18 meV) and reported
+initial efficiency of 0.9%
+
+MASnI3 and MASnI3‑xBrx
+With incorporation of Br−, the VOC was significantly increased, 
+attributing to raised conduction band edge and reduced series resistance in MASnI3‑xBrx,
+
+multivalent nature of Sn and easy oxidation of Sn2+ to Sn4+ in ambient conditions hav been constant challenges for its employment in PSCs
+The oxidized Sn4+ ion acts as a p-type dopant, causing self-doping of the perovskite layer and, thus, limitng PCE
+
+Another factor that limits the PCE is the poor coverage 覆盖 and inhomogeneity 不均匀 of Sn perovskite films 
+due to rapid crystallization, resulting in large number of pin-holes.
+pinhole free high quality films could be obtained in case of DMSO and NMP (solvents), induced by intermediate phase, 
+which resulted in unprecedented rise in photocurrent, up to 21 mA/cm
+vapor deposition and hybrid vapor deposition−solution methods
+
+SnI2 obtained by physical vapor deposition was converted to MASnI3 
+by spin coating the MAI solution, were found to be highly dependent on the concentration of MAI 
+and very interestingly, the MASnI3 films did not show Sn4+ peaks after storing for 20 days in glovebox and for 90 min in ambient atmosphere. 
+This stability was attributed to high quality and dense evaporated 蒸发的 SnI2 films.
+
+two-step deposition technique can be advantageous for stabilizing Sn perovskites.
+MASnBr3 perovskite deposited by co-evaporation forms Sn−Br oxide on the surface (capping layer), 
+which restrains generation of excitons and charge transport across the interface and leads to low efficiency (0.35%), 
+MASnBr3 made by sequential evaporation 顺序蒸发 method yields a PCE of 1.12% due to much reduced oxidation by the top MABr layer.
+
+Sn2+ is prone to oxidation,
+addition of extra Sn2+ precursors like SnI2, SnF2 and SnCl2 to precursor solution have been tried to compensate missing Sn2+ 
+
+CsSnI3 is more stable in its yellow phase but addition of SnF2, which does not get incorporated into the crystal lattice,
+distorts the structure due to much smaller ionic radii of F− compared to I− and thereby prevents formation of the yellow phase. 
+However, addition of excess SnF2 leads to severe phase separation, which is remarkably reduced by binding SnF2 to pyrazine 吡嗪.
+
+To suppress the adverse effect of excess SnF2, additives (in combination with SnF2) such as hydrazine 肼 (N2H4) and hypophosphorous acid 次磷酸 (H3PO2), 
+which act like reducing agents 还原剂, have been incorporated into Sn perovskites in combination with SnF2 and have been found to show improved stability. 
+
+mixing CH3(CH2)3NH3+ (BA+) and CH3NH3+ (MA+) to obtain 2D (CH3(CH2)3NH3)2-(CH3NH3)n‑1 Sn n I3n+1
+possessing an optimal bandgap of 1.42 and 1.5 eV for n = 4 and 3, respectively.
+In terms of moisture stability and device performance, 
+the lower dimensional perovskite (n = 4) outperformed its 3D analogue.
+
+(PEA)2(FA)8 Sn9 I28
+phenylethylammonium (PEA) 苯乙基铵
+
+/3073
+
+some words:
+                    reduced series resistance 降低串联电阻
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
