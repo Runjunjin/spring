@@ -605,11 +605,35 @@ or I− ions (r = 220 pm) with smaller anions like Br− (r = 196 pm) and Cl− 
 Hence, suitable foreign dopants or even additives in the precursors of CsPbI3 
 that can restrict the dimensions of crystals to few nanometers (nanocrystals) can effectively stabilize the cubic CsPbI3.
 
-/3067
+incorporation of additives like HI, sulfobetaine zwitter-ion 两性离子, ethylenediamine (EDA) into CsPbI3 precursor 
+has been found to stabilize a black photoactive phase at RT.
+HI in the CsPbI3 solution induces formation of small grains and creates strain 应变 in crystals, 
+which are likely responsible for stabilization of the black phase of CsPbI3 at RT. 
+
+quantum dot-induced stabilization (size-controlled phase stabilization) of α-CsPbI3 seems to work far more effectively. 
+inclusion of a small amount of ethylene diamine lead iodide (EDAPbI4) 2D perovskite in CsPbI3 stabilizes the α-CsPbI3 at RT for months,
+
+Partial substitution of Pb2+ with Bi3+, Sb3+, or Ca2+ has also been found to serve the purpose of stabilizing the α-CsPbI3. 
+e.g. At an optimal concentration of Bi3+ (4 mol% in CsPbI3), δ-phase is completely converted to α-phase,
+
+Two common observations 观察结果 in all the reports presenting formation/stabilization of black phase at RT are 
+(i) reduction in crystal size (or grain size) and
+(ii) microstrain in crystals (splitting of the XRD peaks).
+
+Eu (both Eu2+ and Eu3+) ion‘s interaction with other ions in the solution probably controls the crystallization and grain growth 
+
+stabilization of the black phase at low temperature is largely sourced by smaller particles/grains and
+inclusion of suitable metal ions limits crystal growth to even nanometer size, and as result, the cubic phase is stabilized.
 
 some words:
                     orthorhombic 斜方的               implementation 执行
-                 appreciable 可观的
+                 appreciable 可观的                  sulfobetaine 磺基甜菜碱
+                 ethylenediamine (EDA) 乙二胺  sequential isopropanol treatment 顺序异丙醇处理
+                 charge neutrality 电荷中性         phenyltrimethylammonium bromide (PTABr) 苯基三甲基溴化铵
+
+6.2. Cesium−Lead Mixed Halide Perovskites
+/3069
+
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
