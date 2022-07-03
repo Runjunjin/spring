@@ -710,13 +710,15 @@ the lower dimensional perovskite (n = 4) outperformed its 3D analogue.
 (PEA)2(FA)8 Sn9 I28
 phenylethylammonium (PEA) 苯乙基铵
 
-/3073 as stability of...
-
 some words:
                     reduced series resistance 降低串联电阻
                     fluorine-doped tin oxide FTO 掺氟氧化锡
                  dimethyl formamide (DMF) 二甲基甲酰胺
                     pristine 原始的
+
+7.1.2. Germanium (Ge)-Based Perovskites.
+
+/3073
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
