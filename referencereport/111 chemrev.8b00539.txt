@@ -718,7 +718,9 @@ some words:
 
 7.1.2. Germanium (Ge)-Based Perovskites.
 
-/3073
+AGeX3
+
+
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
