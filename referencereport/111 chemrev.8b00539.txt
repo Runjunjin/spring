@@ -719,8 +719,30 @@ some words:
 7.1.2. Germanium (Ge)-Based Perovskites.
 
 AGeX3
+band gap increasing with decreasing size of halide ions.
 
+CsGeX3, Eg changes from 1.6 to 2.3 to 3.2 eV when X changes from I to Br to Cl, respectively. 
+Ge-based perovskites show increasing band gap with an increase in the radii of A cations. 
+bulkier cations also can reduce the dimensionality, and nature of band gap from direct to indirect one. 
+This results in poor absorption by such Ge perovskites.
 
+7.1.3. Lead-Free Binary 二元 Metal Halide Perovskites.
+
+Tl-Bi, Sn-Ge
+
+RbSn0.5Ge0.5I3 was found to possess a direct band gap within an optimal range of 0.9−1.6 eV and an optical absorption similar to that of MAPbI3
+
+Cs4CuSb2Cl12 having a direct band gap of 1 eV
+Cs4CuSb2Cl12is stable against heat-stress, light, and humidity and possesses better conductivity than MAPbI3. 
+
+some words:
+                   bulkier. 比较级(bulky) 较大的        tandem devices 串联装置
+                   aliovalent ionic pair 异价离子对      enthalpy 焓
+                   dual cation 双阳离子
+
+7.1.4. Group 15 Metal-Based Perovskite/Nonperovskite Materials. 
+
+/3075
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
