@@ -768,7 +768,29 @@ some words:
 
 7.2. Low-Lead Perovskite Materials: Reducing Toxicity and Enhancing Efficiency
 
-/3078
+MA(Pb1‑xSnx)I3 for x varying between 0 and 1 (prepared by RT drying of solution), 
+which instead of falling between the two extremes (i.e., 1.55 eV for MAPbI3 and 1.35 eV for MASnI3) became even smaller (<1.3 eV). 
+
+MA2SnI6 is formed only in Cs-free perovskite layer upon exposure to ambient atmosphere, caused by oxidation of Sn2+ to Sn4+. 
+This confirms that Cs+ incorporation is effectively reducing the oxidation of Sn2+ when exposed to ambient atmosphere.
+
+MAPb0.9 Sn0.05 Cu0.05 I2.9 Br0.1
+
+some words:
+                   discrepancy 差异          amalgamate 合并
+                   extrinsic 外在的
+
+8. TOWARD COMMERCIALIZATION
+
+8.1. Scaling Up and Reproducibility Challenges
+
+/3079 A PCE of 10−14% 
+
+some words:
+                   homogeneity 均匀性      blade coating 刮刀涂层
+                 slot-die coating 缝模涂层  ink jet printing 喷墨打印
+                  screen printing 丝网印刷  spray coating 喷涂
+                  electrodeposition 电镀
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
