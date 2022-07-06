@@ -810,12 +810,32 @@ some words:
 Low-temperature (<150 °C) processing of all the active layers
 including perovskite in PSCs offers a noteworthy advantage for industrialization of the PSCs.
 
-/3083
+thin metal oxide layers can be deposited at low temperature (without the requirement of high temperature sintering) 
+via chemical reactions involving dehydration−condensation reaction of precursors or metal oxide nanoparticles.
+
+some words:
+                   dehydration−condensation 脱水-缩合
+                   infiltrated 浸入                             back-electron transfer (recombination).
+                   compactness 紧凑                         amorphous 无定形的
+                   brookite 板钛矿                            curvature 曲率
+
+8.4. Potential Applications in Optoelectronic Devices
+
+photovoltaics, namely, light-emitting diodes (LEDs), photodetectors, memresistors 记忆电阻器, X-ray detectors, 
+
+pinhole-rich (bypass-rich 旁路丰富) 
+
+/3085Applications of 
+
+some words:
+                 amplify 放大            monochromatic 单色的
+                    switch 开关             compact layer (CL) 致密层
+
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
     We knew VBM consisted of Pb 6s-I 5p and CBM consisted of Pb 6p and/or Pb 6p-I 5p. So what the mechanism of that?
-  My answers:  The decrease of  Pb−I bond distance caused the orbital overlap between Pb and I, 
+    My answers:  The decrease of  Pb−I bond distance caused the orbital overlap between Pb and I, 
                         so the CBM would be expanded and close to VBM which resulted in the band gap decreasing 
                         because the energy band formed by orbital overlap. The orbital overlap increasing leads to the inner shell orbital overlap, 
                         and the energy level splitting was increased, which further leads to VB shift down 
