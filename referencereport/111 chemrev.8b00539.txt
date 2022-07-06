@@ -784,13 +784,33 @@ some words:
 
 8.1. Scaling Up and Reproducibility Challenges
 
-/3079 A PCE of 10−14% 
-
 some words:
                    homogeneity 均匀性      blade coating 刮刀涂层
                  slot-die coating 缝模涂层  ink jet printing 喷墨打印
                   screen printing 丝网印刷  spray coating 喷涂
-                  electrodeposition 电镀
+                  electrodeposition 电镀      substantial 大量的
+                  grids 网格, 栅格            nucleation 形核
+                  recipe 秘诀；处方         colloidal 胶体的
+                  conspicuous 显著的，显而易见的
+
+8.2. Perovskite Tandem Cells
+
+reachable efficiency of a tandem cell depends on VOC values and fill factors (FFs) of top and bottom cells
+
+narrow (<1.5 eV) and wide (>1.7 eV) gap perovskite cells
+
+Superior merit of small voltage loss in perovskite solar cell is special to the 1.6 eV band gap perovskite which achieves PCE > 21%
+
+some words:
+                 photon flux 光子通量        parasitic loss 寄生损失
+                 dual 双重的
+
+8.3. Low-Temperature Process and Flexible Device
+
+Low-temperature (<150 °C) processing of all the active layers
+including perovskite in PSCs offers a noteworthy advantage for industrialization of the PSCs.
+
+/3083
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
