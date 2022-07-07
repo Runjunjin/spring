@@ -825,12 +825,22 @@ photovoltaics, namely, light-emitting diodes (LEDs), photodetectors, memresistor
 
 pinhole-rich (bypass-rich 旁路丰富) 
 
-/3085Applications of 
+robust durability of perovskite cells is enabled by use of very thin absorber films 
 
 some words:
                  amplify 放大            monochromatic 单色的
-                    switch 开关             compact layer (CL) 致密层
+                 switch 开关             compact layer (CL) 致密层
+                 mimics 模仿          usability 可用性
+                 underlying 潜在的   pixel 象素(等于picture element)
+                 robust 强健的        scintillator 荧光材料
+                 detect 检测           resolution 分辨率
+               optical crosstalk 光串扰  mount 安装
+               hemispheres 半球       hemispheres of globe 地球的半球
+               fluence 影响              penetration 渗透
 
+9. CONCLUSIONS AND FUTURE PROSPECTS
+
+/3087
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
