@@ -840,7 +840,14 @@ some words:
 
 9. CONCLUSIONS AND FUTURE PROSPECTS
 
-/3087
+9.1. Further Improvement in PCE
+
+9.2. How To Increase Intrinsic Stability Further?
+
+
+
+some words:
+                  parasitic 寄生的
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
