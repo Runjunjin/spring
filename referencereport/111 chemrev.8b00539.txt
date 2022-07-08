@@ -844,10 +844,17 @@ some words:
 
 9.2. How To Increase Intrinsic Stability Further?
 
-
-
 some words:
                   parasitic 寄生的
+
+9.3. How To Increase Environmental Stability Further?
+
+9.4. Potential of Lead-Free Perovskites
+
+some words:
+                   daunting 令人畏缩的
+
+9.5. Steps toward Commercialization
 
 Questions：
 1. Expanding the crystal a bit, resulting in decreased Pb−I bond distance, which eventually lowers the band gap.
@@ -859,5 +866,3 @@ Questions：
                         (the increased number of electrons less than the increased number of orbits, e.g. two s-orbit overlap with 4 electrons, 
                          there are 4 splitted orbits, considering the spin 自旋 of electron there would be two orbits became the CB 
                          while the bottom two orbits became the VB, but the initial 4 orbits origined from the original VB)
-
-2. 
