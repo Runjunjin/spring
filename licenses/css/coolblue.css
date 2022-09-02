@@ -427,11 +427,11 @@ footer {
 header hgroup {
     position: absolute;
     background: url(../images/logo.png) no-repeat;
-    height: 62px;
-    width: 215px;
+    height: 107px;
+    width: 339px;
     display: block;
-    top: 100px;
-    left: 10px;
+    top: 75px;
+    left: 726px;
 }
 header hgroup h1 {
     margin: 0;
