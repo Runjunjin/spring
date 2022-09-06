@@ -105,7 +105,7 @@ a:hover.more {
 }
 
 /* Headers */
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
 	font: bold 1em/1.5em Arial, Helvetica, Sans-Serif;
    	margin-bottom: 24px;
     color: #353535;
@@ -131,7 +131,13 @@ h3 {
     margin-bottom: 12px;
 }
 h4 { font-size: 18px; }
-
+h3 {
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
 /* Lists */
 ul, ol {
 	margin: 0 0 24px 0;
@@ -424,6 +430,15 @@ footer {
 ---------------------------------------------------------------------------- */
 
 /* Logo */
+header hgroupho {
+    position: absolute;
+    background: url(../images/logo1.png) no-repeat;
+    height: 107px;
+    width: 400px;
+    display: block;
+    top: 60px;
+    left: 10px;
+}
 header hgroup {
     position: absolute;
     background: url(../images/logo.png) no-repeat;
@@ -431,7 +446,7 @@ header hgroup {
     width: 339px;
     display: block;
     top: 75px;
-    left: 726px;
+    left: 540px;
 }
 header hgroup h1 {
     margin: 0;
