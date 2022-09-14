@@ -157,6 +157,8 @@ Author Warning: This code is only used for academic communication.
 '''
 
 import requests
+import time
+import random
 from bs4 import BeautifulSoup
 import os
 
@@ -171,6 +173,9 @@ for line in f.readlines():
 	line = line[:-1] #去换行符
 	#url = "https://www.sci-hub.ren/" + line + "#"  #sci hub的DOI码检索url
 	url = "https://www.sci-hub.ren/" + line + "#" #20210515更新：现在换成这个sci hub检索地址
+    k = random.randint(5, 20)
+	print("k=", k)
+	time.sleep(k)#2022/9/14更新
 	try:
 		download_url = ""  #20211111更新
 		r = requests.get(url, headers = head)
