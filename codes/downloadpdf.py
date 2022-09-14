@@ -11,6 +11,7 @@ Author Warning: This code is only used for academic communication.
 '''
 
 import requests
+import random
 import time
 from bs4 import BeautifulSoup
 import os
@@ -26,7 +27,9 @@ for line in f.readlines():
 	line = line[:-1] #去换行符
 	#url = "https://www.sci-hub.pl/" + line + "#"  #sci hub的DOI码检索url  这个地址已经失效了
 	url = "https://www.sci-hub.ren/" + line + "#" #20210515更新：现在换成这个sci hub检索地址
-	time.sleep(10) #2022/9/14
+	k = random.randint(5, 20)
+	print("k=", k)
+	time.sleep(k) #2022/9/14
 	try:
 		download_url = ""  #20211111更新
 		r = requests.get(url, headers = head)
